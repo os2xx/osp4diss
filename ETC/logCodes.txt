@@ -1,0 +1,66 @@
+# REV06 Wed 07 Jul 2021 20:15:07 WIB
+# REV04 Sun 21 Feb 2021 11:15:43 WIB
+# REV03 Thu Sep 24 11:51:01 WIB 2020
+# REV02 Tue Sep 22 21:16:52 WIB 2020
+# REV01 Sat Sep 12 00:52:34 WIB 2020
+# START Tue Sep 08 11:14:17 WIB 2020
+# ##########################################
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# ##########################################
+#
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+
+L00 General, etc.
+L01 SCELE/Discord related
+L02 ZOOM meetings related
+L03 GitHub related
+L04 GitHub Pages related
+L05 Quiz related
+L06 References/Books/Documents/GSGS related
+L07 Demo related
+L08 AsDos: asking, etc.
+L09 Assignment in General
+L10 Assignment #00
+L11 Assignment #01
+L12 Assignment #02
+L13 Assignment #03
+L14 Assignment #04
+L15 Assignment #05
+L16 Assignment #06
+L17 Assignment #07
+L18 Assignment #08
+L19 Assignment #09
+L20 Assignment #10
+L21 Trying something
+L22 Quiz
+L23 Linux CLI including tar, etc.
+L24 Bash, Regex, SED, AWK.
+L25 Scripting
+L26 C-language
+L27 GnuPG, key-gen, encrypt/decrypt.
+L28 SSH, key-gen, tunneling, putty, winscp
+L29 Jekyll, including Ruby.
+L30 Udacity: study, etc.
+L31 VirtualBox: install GNU/Linux, etc.
+L32 YouTube: study, etc.
+L60 Reinstall/Restore/Backup Computer after crash
+L61 Reinstall/Restore/Backup Virtual Box
+L62 Reinstall/Restore/Backup Virtual Debian Guest
+L63 Fixing Hardware Problems
+L64 Helping OS related problem to a friend.
+L70 Studying for other courses.
+L71 Working  (General)
+L72 Online Related Job, merchant, etc.
+L73 Gaming
+L80 Waching: Movie, YouTube, TV, etc.
+L81 Listening: Radio, Music, etc.
+L82 Reading Book (paper or online)
+L83 Pets: feeding, playing, etc
+L84 Relax, Rest, and Sleep
+L85 Baby Sit and/or Oma/Opa Sit
+L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+L87 Else that is not related with this Operating Systems class.
+L99 Other (...)
+
