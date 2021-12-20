@@ -3,8 +3,8 @@
 
 [HOME](index.md)
 [ABOUT](README.md)
-[WEB](https://osp4diss.vlsm.org/)
-[GITHUB](https://github.com/OSP4DISS/osp4diss/)
+[WEB](https://os2xx.github.io/osp4diss/)
+[GITHUB](https://github.com/os2xx/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
 
@@ -308,8 +308,8 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 
 [HOME](index.md)
 [ABOUT](README.md)
-[WEB](https://osp4diss.vlsm.org/)
-[GITHUB](https://github.com/OSP4DISS/osp4diss/)
+[WEB](https://os2xx.github.io/osp4diss/)
+[GITHUB](https://github.com/os2xx/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
 <br>
