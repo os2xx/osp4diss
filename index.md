@@ -19,7 +19,7 @@ The following is a step-by-step guide to set up a Virtual Debian Guest on Virtua
 * [VirtualBox Guest Preparation](#idx00b)
 * [Import/Rename/Export/Delete a Virtual Guest](#idx01)
 * [Installing a VirtualBox Debian Guest (ISO File)](#idx02)
-* [Running a VirtualBox Debian Guest (both OVA or ISO)](#idx03)
+* [Running a VirtualBox Debian Guest](#idx03)
 * [Dress Up Your Virtual Guest](#idx04)
 * [PULL from / PUSH to GitHub](#idx05)
 * [More](#idx06)
@@ -67,7 +67,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [EXPORT](#idx01) your Virtual Guest as "DEB11-01.ova" (after shutdown).
 
 <br id="idx03">
-# Running a VirtualBox Debian Guest (either OVA or ISO)
+# Running a VirtualBox Debian Guest
 
 * [IMPORT](#idx01) E.g. "DEB11-01.ova".
 * [RENAME](#idx01) your Virtual Guest as "Guest-01a".
