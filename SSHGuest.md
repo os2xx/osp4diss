@@ -20,7 +20,10 @@
 ### PUTTY URL: [https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 ### NOTE: The current version is <span style="color:red; font-weight:bold; font-size:larger;">PUTTY 0.76</span>
+
 #### THIS IS SUBJECT TO CHANGE! In this example, the version is <span style="color:red; font-weight:bold; font-size:larger;">0.74</span>
+
+* Check it out for the latest PUTTY version.
 
 <img src="pictures/WK-OSP-00.jpg"  width="960">
 
@@ -33,8 +36,12 @@
 
 ### WinSCP URL: [https://winscp.net/eng/download.php](https://winscp.net/eng/download.php)
 
+
+### NOTE: The current version is <span style="color:red; font-weight:bold; font-size:larger;">WinSCP 5.19</span>
+
+#### THIS IS SUBJECT TO CHANGE! In this example, the version is <span style="color:red; font-weight:bold; font-size:larger;">5.17</span>
+
 * Check it out for the latest WINSCP version.
-* In this example, the version is <span style="color:red; font-weight:bold; font-size:larger;">WinSCP 5.17</span>
 
 <img src="pictures/WK-OSP-02.jpg"  width="960">
 
