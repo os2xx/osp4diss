@@ -12,55 +12,55 @@
 
 # New VirtualBox Guest: Storage
 
-* Example **DEB10-00-0-64G+64G-EMPTY**
+* Example **DEB11-01**
 
 ### Click SETTING
 
-<img src="pictures/osp21-07.jpg"  width="960">
+<img src="pictures/OS21-010a.jpg"  width="960">
 
 <br>
 ### Storage: Remove Empty IDE
 
 * RIGHT click (Remove Attachment)
 
-<img src="pictures/osp21-14.jpg"  width="960">
+<img src="pictures/OS21-019.jpg"  width="960">
 
 * Remove Empty 
 
-<img src="pictures/osp21-15.jpg"  width="960">
+<img src="pictures/OS21-020.jpg"  width="960">
+
+* Remove IDE Controller
+
+<img src="pictures/OS21-021.jpg"  width="960">
 
 <br>
 ### Storage: SATA: Adds Hard disk
 
-<img src="pictures/osp21-16.jpg"  width="960">
+<img src="pictures/OS21-022.jpg"  width="960">
 
 * Create a new disk
 
-<img src="pictures/osp21-17.jpg"  width="960">
+<img src="pictures/OS21-023.jpg"  width="960">
 
 * Hard disk type: VDI
 
-<img src="pictures/osp21-18.jpg"  width="960">
+<img src="pictures/OS21-024.jpg"  width="960">
 
 * Dynamically Allocated
 
-<img src="pictures/osp21-19.jpg"  width="960">
+<img src="pictures/OS21-025.jpg"  width="960">
 
-* (Second) Disk Storage: 64 GB
+* (Second) Disk Storage: 32 GB
 
-<img src="pictures/osp21-20.jpg"  width="960">
+<img src="pictures/OS21-026.jpg"  width="960">
 
-* Choose (64 GB Storage)
+* Choose (32 GB Storage)
 
-<img src="pictures/osp21-21.jpg"  width="960">
+<img src="pictures/OS21-027.jpg"  width="960">
 
-* Sellect IDE Controller
+* Done (SATA only)
 
-<img src="pictures/osp21-22.jpg"  width="960">
-
-* Remove IDE Controller
-
-<img src="pictures/osp21-23.jpg"  width="960">
+<img src="pictures/OS21-028.jpg"  width="960">
 
 <br id="endofpage"><br>
 

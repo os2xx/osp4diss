@@ -12,11 +12,11 @@
 
 # New VirtualBox Guest: Display
 
-* Example **DEB10-00-0-64G+64G-EMPTY**
+* Example **DEB11-01**
 
 ### Click SETTING
 
-<img src="pictures/osp21-07.jpg"  width="960">
+<img src="pictures/OS21-010a.jpg"  width="960">
 
 <br>
 ### Display: Screen
@@ -25,7 +25,7 @@
   * <span style="color:red; font-weight:bold; font-size:larger;">Adjust the screen size if it is too small or too large.</span>
 
 
-<img src="pictures/osp21-13.jpg"  width="960">
+<img src="pictures/OS21-018.jpg"  width="960">
 
 <br id="endofpage"><br>
 
