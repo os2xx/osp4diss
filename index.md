@@ -18,16 +18,15 @@ The following is a step-by-step guide to set up a Virtual Debian Guest on Virtua
 * [Introduction](#idx00)
 * [VirtualBox Guest Preparation](#idx00b)
 * [Import/Export/Delete a Virtual Guest](#idx01)
-* [Importing OVA or Installing ISO?](#idx02)
-  * [Option 1: Importing a VirtualBox Debian Guest (OVA File)](#idx02a)
-  * [Option 2: Installing a VirtualBox Debian Guest (ISO File)](#idx02b)
+* [Installing a VirtualBox Debian Guest (ISO File)](#idx02)
 * [Running a VirtualBox Debian Guest (both OVA or ISO)](#idx03)
 * [Dress Up Your Virtual Guest](#idx04)
 * [PULL from / PUSH to GitHub](#idx05)
 * [More](#idx06)
-* [Assignments](#idx07)
-  * [W02](#idx07)   --- [W03](#idx0703) --- [W04](#idx0704) --- [W05](#idx0705) --- [W06](#idx0706) --- 
-    [W07](#idx0707) --- [W08](#idx0708) --- [W09](#idx0709) --- [W10](#idx0710)
+* OS Assignments
+  * TBA.
+* SP Assignments
+  * TBA.
 * [ETC](#idx08)
 
 <br id="idx00b">
@@ -53,17 +52,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [DELETING Debian VirtualBox Guest(s)](DebianGuestDeleteOva.md)
 
 <br id="idx02">
-# Importing OVA or Installing ISO?
-
-<br id="idx02a">
-## Option 1: Importing a VirtualBox Debian Guest (OVA File)
-
-* For importing a Debian 11 OVA Image:
-  * [DEBIAN-11-01-README.txt](https://bit.ly/3g5lwkX)
-  * [DEBIAN-11-01.ova](https://bit.ly/3yQDL4V) (360 MB)
-
-<br id="idx02b">
-## Option 2: Installing a VirtualBox Debian Guest (ISO File)
+# Installing a VirtualBox Debian Guest (ISO File)
 
 * [VirtualBox: NEW EMPTY Guest with 2 x 64GB disks](DebianGuestOnVirtualBox1.md) (E.g. DEB10-00-0-64G+64G-EMPTY)
 * [VirtualBox: General](DebianGuestOnVirtualBox2.md)

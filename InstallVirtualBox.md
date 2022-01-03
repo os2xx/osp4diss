@@ -41,7 +41,7 @@ Check your PC firmware configuration.
 * Visit the Oracle VirtualBox site.
   * URL: [VirtualBox.org](https://www.virtualbox.org/wiki/Downloads)
   * NOTE: The current VirtualBox version is 
-    <span style="color:red; font-weight:bold; font-size:larger;">6.1.26</span>
+    <span style="color:red; font-weight:bold; font-size:larger;">6.1.30</span>
     (or more).
     <span style="color:red; font-weight:bold; font-size:larger;">THIS IS SUBJECT TO CHANGE!</span>
   * In this example, the VirtualBox version iis 6.1.12.
