@@ -10,24 +10,26 @@
 [PREV](index.md)
 [NEXT](DebianGuestImportOva.md)
 
-# Exporting a Debian Guest In OVA Format
+# Renaming a Debian Guest
 
-## <span style="color:red; font-weight:bold; font-size:larger;">Eg. DEB11-00</span>
+## <span style="color:red; font-weight:bold; font-size:larger;">E.g. Rename DEB11-00 to DEB11-01</span>
 
 <img src="pictures/OS21-007.jpg"  width="960">
-
-### (File) Export Applience...
-
-<img src="pictures/OS21-008.jpg"  width="960">
 
 <br>
-### Virtual Machines To Export: DEB11-00
+### Click: General --> Name (e.g. DEB11-00)
 
-<img src="pictures/OS21-009.jpg"  width="960">
+<img src="pictures/OS21-011.jpg"  width="960">
 
-### Export Done (DEB11-00)
+<br>
+### Rename: DEB11-01
 
-<img src="pictures/OS21-007.jpg"  width="960">
+<img src="pictures/OS21-012.jpg"  width="960">
+
+<br>
+### DEB11-01
+
+<img src="pictures/OS21-010.jpg"  width="960">
 
 <br id="endofpage"><br>
 

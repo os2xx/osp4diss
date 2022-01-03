@@ -12,21 +12,21 @@
 
 # New VirtualBox Guest: General
 
-* Example **DEB10-00-0-64G+64G-EMPTY**
+* Example **DEB11-01**
 
 ### Click SETTING
 
-<img src="pictures/osp21-07.jpg"  width="960">
+<img src="pictures/OS21-010a.jpg"  width="960">
 
 <br>
 ### General: Basic
 
-<img src="pictures/osp21-08.jpg"  width="960">
+<img src="pictures/OS21-013.jpg"  width="960">
 
 <br>
 ### General: Advanced
 
-<img src="pictures/osp21-09.jpg"  width="960">
+<img src="pictures/OS21-014.jpg"  width="960">
 
 <br id="endofpage"><br>
 

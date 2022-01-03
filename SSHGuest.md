@@ -12,7 +12,7 @@
 
 # Downloading PUTTY and WINSCP
 
-### See also [FDM: Free Download Manager (Optional)](http://localhost:4000/InstallFDM.html)
+### See also [FDM: Free Download Manager (Optional)](InstallFDM.html)
 
 <br>
 ## Downloading PUTTY

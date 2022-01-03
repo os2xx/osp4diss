@@ -17,7 +17,7 @@ The following is a step-by-step guide to set up a Virtual Debian Guest on Virtua
 
 * [Introduction](#idx00)
 * [VirtualBox Guest Preparation](#idx00b)
-* [Import/Export/Delete a Virtual Guest](#idx01)
+* [Import/Rename/Export/Delete a Virtual Guest](#idx01)
 * [Installing a VirtualBox Debian Guest (ISO File)](#idx02)
 * [Running a VirtualBox Debian Guest (both OVA or ISO)](#idx03)
 * [Dress Up Your Virtual Guest](#idx04)
@@ -47,6 +47,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 # Import/Export/Delete a Virtual Guest
 
 * [EXPORTing a VirtualBox Guest (OVA)](DebianGuestExportOva.md)
+* [RENAMing a VirtualBox Guest](DebianGuestExportOva1.md)
 * [IMPORTing a VirtualBox Guest with a different Name](DebianGuestImportOva.md)
 * [EXPORT IMPORT VirtualBox Guest(s)](ExportImportGuests.md)
 * [DELETING Debian VirtualBox Guest(s)](DebianGuestDeleteOva.md)
@@ -54,7 +55,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 <br id="idx02">
 # Installing a VirtualBox Debian Guest (ISO File)
 
-* [VirtualBox: NEW EMPTY Guest with 2 x 64GB disks](DebianGuestOnVirtualBox1.md) (E.g. DEB10-00-0-64G+64G-EMPTY)
+* [VirtualBox: NEW EMPTY Guest with 16GB + 32 GB disks](DebianGuestOnVirtualBox1.md) (E.g. DEB11-00)
 * [VirtualBox: General](DebianGuestOnVirtualBox2.md)
 * [VirtualBox: System](DebianGuestOnVirtualBox3.md)
 * [VirtualBox: Display](DebianGuestOnVirtualBox4.md)
@@ -63,12 +64,12 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [VirtualBox: Network](DebianGuestOnVirtualBox7.md)
 * [Downloading Debian ISO Image](DebianISOImage.md)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
-* [EXPORT](#idx01) your Virtual Guest as "DEB11-00-1-INSTALL.ova" (after shutdown).
+* [EXPORT](#idx01) your Virtual Guest as "DEB11-01.ova" (after shutdown).
 
 <br id="idx03">
 # Running a VirtualBox Debian Guest (either OVA or ISO)
 
-* [IMPORT](#idx01) "DEBIAN-11-01.ova" (Option 1) or "DEB11-00-1-INSTALL.ova" (Option 2).
+* [IMPORT](#idx01) E.g. "DEB11-01.ova".
 * [RENAME](#idx01) your Virtual Guest as "Guest-01a".
 * [Startup a VirtualBox Guest](osp-002-startup.md)
 * [Login from a Console](osp-002-login.md)
