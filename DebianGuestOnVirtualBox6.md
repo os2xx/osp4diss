@@ -12,20 +12,16 @@
 
 # New VirtualBox Guest: Audio
 
-* Example **DEB10-00-0-64G+64G-EMPTY**
+* Example **DEB11-01**
 
 ### Click SETTING
 
-<img src="pictures/osp21-07.jpg"  width="960">
+<img src="pictures/OS21-010a.jpg"  width="960">
 
 <br>
 ### Audio
 
-<img src="pictures/osp21-24.jpg"  width="960">
-
-* (Nothing)
-
-<img src="pictures/osp21-25.jpg"  width="960">
+<img src="pictures/OS21-029.jpg"  width="960">
 
 <br id="endofpage"><br>
 

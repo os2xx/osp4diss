@@ -19,28 +19,29 @@
 
 ### Click SETTING
 
-<img src="pictures/osp21-07.jpg"  width="960">
+<img src="pictures/OS21-010a.jpg"  width="960">
 
 <br>
 ### Network: Adapter 1 (NAT): Port Forwarding
 
 * Click Port Forwarding
 
-<img src="pictures/osp21-26.jpg"  width="960">
+<img src="pictures/OS21-030.jpg"  width="960">
 
 * **ADD (+)** Forward ssh from host 127.0.0.1:6022 to guest 10.0.2.15:22 (SSH)
-
-<img src="pictures/osp21-27.jpg"  width="960">
-
 * **ADD (+)** Forward ssh from host 127.0.0.1:5000 to guest 10.0.2.15:4000 (Jekyll)
 
-<img src="pictures/doit-008.jpg"  width="960">
+<img src="pictures/OS21-031.jpg"  width="960">
 
 <br>
-### Network: Adapter 1 (NAT) --- DONE
+### Network: Adapter 1 (NAT) --- OK
 
-<img src="pictures/osp21-28.jpg"  width="960">
+<img src="pictures/OS21-032.jpg"  width="960">
 
+<br>
+### Done
+
+<img src="pictures/OS21-033.jpg"  width="960">
 
 <br id="endofpage"><br>
 
