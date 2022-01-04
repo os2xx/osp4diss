@@ -123,65 +123,62 @@
 
 * Hostname: cbkadal
 
-<img src="pictures/osp21-57.jpg"  width="960">
+<img src="pictures/OS21-055.jpg"  width="960">
 
 * Domain Name: none
 
-<img src="pictures/osp21-58.jpg"  width="960">
+<img src="pictures/OS21-056.jpg"  width="960">
 
 <br>
 ### Set Up Users And Passwords
 
-* Root Password: cbkadal
+* Root Password: cbkadal (or else)
 
-<img src="pictures/osp21-59.jpg"  width="960">
+<img src="pictures/OS21-057.jpg"  width="960">
 
-* Full Name For The New User: Cicak Bin Kadal
+* Full Name For The New User: Cicak BinKadal (e.g.)
 
-<img src="pictures/osp21-60.jpg"  width="960">
+<img src="pictures/OS21-058.jpg"  width="960">
 
-* Username For Your Account: cbkadal
+* Username For Your Account: cbkadal (e.g.)
 
-<img src="pictures/osp21-61.jpg"  width="960">
+<img src="pictures/OS21-059.jpg"  width="960">
 
-* Choose A Password For The New User: cbkadal
+* Choose A Password For The New User: cbkadal (e.g.)
 
-<img src="pictures/osp21-62.jpg"  width="960">
+<img src="pictures/OS21-060.jpg"  width="960">
 
 <br>
 ### Configure The Clock
 
-<img src="pictures/osp21-63.jpg"  width="960">
+* Select A City In Your Time Zone:  Western Indonesia (WIB)
 
-* Select A City In Your Time Zone: WIB
-
-<img src="pictures/osp21-64.jpg"  width="960">
+<img src="pictures/OS21-061.jpg"  width="960">
 
 <br>
 ### Partitions Disk
 
-<img src="pictures/osp21-65.jpg"  width="960">
+<img src="pictures/OS21-062.jpg"  width="960">
 
 * Partition method: Manual
 
-<img src="pictures/osp21-66.jpg"  width="960">
+<img src="pictures/OS21-063.jpg"  width="960">
 
 <br>
 ### Select: SCSI1 (0,0,0) (sda)
 
-<img src="pictures/osp21-67.jpg"  width="960">
+<img src="pictures/OS21-064.jpg"  width="960">
 
 * Create A New Partition Table: Yes
 
-<img src="pictures/osp21-68.jpg"  width="960">
-
-<img src="pictures/osp21-69.jpg"  width="960">
+<img src="pictures/OS21-065.jpg"  width="960">
+<img src="pictures/OS21-066.jpg"  width="960">
 
 * Create A New Partition
 
-<img src="pictures/osp21-70.jpg"  width="960">
+<img src="pictures/OS21-067.jpg"  width="960">
 
-* Partition Size: 257 MB
+* Partition Size: 1024 MB
   * <span style="color:red; font-weight:bold; font-size:larger;">
     You might want to consider other SWAP sizes:
     </span>
@@ -189,33 +186,40 @@
     * 1024MB
     * 2048MB
 
-<img src="pictures/osp21-71.jpg"  width="960">
+<img src="pictures/OS21-068.jpg"  width="960">
 
 * Partition Type: Primary
 
-<img src="pictures/osp21-72.jpg"  width="960">
+<img src="pictures/OS21-069.jpg"  width="960">
 
 * Location: Beginning
 
-<img src="pictures/osp21-73.jpg"  width="960">
+<img src="pictures/OS21-070.jpg"  width="960">
+
+* **CLICK**: "Use as"
+
+<img src="pictures/OS21-071.jpg"  width="960">
 
 * Set Partition As A Swap Area
 
-<img src="pictures/osp21-74.jpg"  width="960">
-
-<img src="pictures/osp21-75.jpg"  width="960">
+<img src="pictures/OS21-072.jpg"  width="960">
 
 * Done: Swap Partition
 
-<img src="pictures/osp21-76.jpg"  width="960">
+<img src="pictures/OS21-073.jpg"  width="960">
 
 * Second Partitiion
 
-<img src="pictures/osp21-77.jpg"  width="960">
+<img src="pictures/OS21-074.jpg"  width="960">
 
 * Create A New Partition
 
-<img src="pictures/osp21-78.jpg"  width="960">
+<img src="pictures/OS21-075.jpg"  width="960">
+<img src="pictures/OS21-076.jpg"  width="960">
+<img src="pictures/OS21-077.jpg"  width="960">
+<img src="pictures/OS21-078.jpg"  width="960">
+<img src="pictures/OS21-079.jpg"  width="960">
+<img src="pictures/OS21-080.jpg"  width="960">
 
 * Partition Size: 68.5 GB
 
