@@ -56,15 +56,18 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 # Installing a VirtualBox Debian Guest (ISO File)
 
 * [VirtualBox: NEW EMPTY Guest with 16GB + 32 GB disks](DebianGuestOnVirtualBox1.md) (E.g. DEB11-00)
+* [EXPORTing as "DEB11-00.ova"](DebianGuestExportOva.md)
+* [RENAMing DEB11-00 to DEB11-01](DebianGuestExportOva1.md)
 * [VirtualBox: General](DebianGuestOnVirtualBox2.md)
 * [VirtualBox: System](DebianGuestOnVirtualBox3.md)
 * [VirtualBox: Display](DebianGuestOnVirtualBox4.md)
 * [VirtualBox: Storage](DebianGuestOnVirtualBox5.md)
 * [VirtualBox: Audio](DebianGuestOnVirtualBox6.md)
 * [VirtualBox: Network](DebianGuestOnVirtualBox7.md)
+* [EXPORTing as "DEB11-01.ova"](DebianGuestExportOva2.md)
 * [Downloading Debian ISO Image](DebianISOImage.md)
+* [RENAMing DEB11-01 to DEB11-02](DebianGuestExportOva3.md)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
-* [EXPORT](#idx01) your Virtual Guest as "DEB11-01.ova" (after shutdown).
 
 <br id="idx03">
 # Running a VirtualBox Debian Guest

@@ -20,109 +20,103 @@
   * Domain: none
   * Root/Pass: root/cbkadal
   * UserName/Account/Pass: Cicak Bin Kadal/cbkadal/cbkadal
-  * Disk #1 (64 GB): 256MB swap and "/" (root partition).
-  * Disk #2 (64 GB): 256MB swap and "/mnt/lfs/" (partition).
+  * Disk #1 (16 GB): 1024MB swap and "/" (root partition).
+  * Disk #2 (32 GB): 1024MB swap and "/mnt/lfs/" (partition).
   * <span style="color:red; font-weight:bold; font-size:larger;">You 
     might want to enlarge the SWAP size</span>
 
 <br>
 ## Import an EMPTY VirtualBox Guest
 
-* E.g DEB10-00-0-64G+64G-EMPTY.ova
-* Rename it to DEB00-00-1-INSTALL
-
-<img src="pictures/osp21-39.jpg"  width="960">
+* E.g DEB11-02.ova
 
 ### Select and Click Settings
 
-<img src="pictures/osp21-40.jpg"  width="960">
+<img src="pictures/OS21-038a.jpg"  width="960">
 
 <br>
 ### Storage: Controller: SATA
 
+<img src="pictures/OS21-039.jpg"  width="960">
+
 * Adds Optical Drive
 
-<img src="pictures/osp21-41.jpg"  width="960">
+<img src="pictures/OS21-040.jpg"  width="960">
 
 <br>
 ### Add Disk Image
 
-<img src="pictures/osp21-42.jpg"  width="960">
+<img src="pictures/OS21-041.jpg"  width="960">
 
 <br>
 ### Open an ISO Image
 
-* Eg. debian-10.7.0-amd64-netinst.iso
+* Eg. debian-11.2.0-amd64-netinst.iso
   <span style="color:red; font-weight:bold; font-size:larger;">(Check if this is the latest version!)</span>
 
-<img src="pictures/osp21-43.jpg"  width="960">
+<img src="pictures/OS21-042.jpg"  width="960">
 
 <br>
-### Eg. Choose: debian-10.7.0-amd64-netinst.iso
+### Eg. Choose: debian-11.2.0-amd64-netinst.iso
 
 * <span style="color:red; font-weight:bold; font-size:larger;">(Check if this is the latest version!)</span>
 
-<img src="pictures/osp21-44.jpg"  width="960">
+<img src="pictures/OS21-043.jpg"  width="960">
 
 <br>
 ### Storage: Storage Devices: OK
 
-<img src="pictures/osp21-45.jpg"  width="960">
+<img src="pictures/OS21-044.jpg"  width="960">
 
 <br>
-### DEB10-00-1-INSTALL is ready to be installed
+## Starting Guest **DEB11-02**
 
-<img src="pictures/osp21-46.jpg"  width="960">
-
-<br>
-## Starting Guest **DEB10-00-1-INSTALL**
-
-<img src="pictures/osp21-47.jpg"  width="960">
+<img src="pictures/OS21-045.jpg"  width="960">
 
 <br>
 ### Virtual Box Starts
 
-<img src="pictures/osp21-48.jpg"  width="960">
+<img src="pictures/OS21-046.jpg"  width="960">
 
 <br>
 ### Graphical Install
 
-<img src="pictures/osp21-49.jpg"  width="960">
+<img src="pictures/OS21-047.jpg"  width="960">
 
 <br>
 ### Select A Language: English (or else)
 
-<img src="pictures/osp21-50.jpg"  width="960">
+<img src="pictures/OS21-048.jpg"  width="960">
 
 <br>
 ### Select Your Location: Other (or else)
 
-<img src="pictures/osp21-51.jpg"  width="960">
+<img src="pictures/OS21-049.jpg"  width="960">
 
 <br>
 ### Select Your Location: Asia (or else)
 
-<img src="pictures/osp21-52.jpg"  width="960">
+<img src="pictures/OS21-050.jpg"  width="960">
 
 <br>
 ### Select Your Location: Asia: Indonesia (or whereever)
 
-<img src="pictures/osp21-53.jpg"  width="960">
+<img src="pictures/OS21-051.jpg"  width="960">
 
 <br>
 ### Configure Locales: United States (en_US.UTF-8) (or else)
 
-<img src="pictures/osp21-54.jpg"  width="960">
+<img src="pictures/OS21-052.jpg"  width="960">
 
 <br>
 ### Configure The Keyboard: American English (or else)
 
-<img src="pictures/osp21-55.jpg"  width="960">
+<img src="pictures/OS21-053.jpg"  width="960">
 
 <br>
 ### Load Installer Components From CD
 
-<img src="pictures/osp21-56.jpg"  width="960">
+<img src="pictures/OS21-054.jpg"  width="960">
 
 <br>
 ### Configure The Network
