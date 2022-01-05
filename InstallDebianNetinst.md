@@ -215,41 +215,37 @@
 * Create A New Partition
 
 <img src="pictures/OS21-075.jpg"  width="960">
+
+* Partition Size: 16.2 GB
+
 <img src="pictures/OS21-076.jpg"  width="960">
-<img src="pictures/OS21-077.jpg"  width="960">
-<img src="pictures/OS21-078.jpg"  width="960">
-<img src="pictures/OS21-079.jpg"  width="960">
-<img src="pictures/OS21-080.jpg"  width="960">
-
-* Partition Size: 68.5 GB
-
-<img src="pictures/osp21-79.jpg"  width="960">
 
 * Partition Type: Primary
 
-<img src="pictures/osp21-80.jpg"  width="960">
+<img src="pictures/OS21-077.jpg"  width="960">
 
 * Done Setting Up The Partition
 
-<img src="pictures/osp21-81.jpg"  width="960">
+<img src="pictures/OS21-078.jpg"  width="960">
 
 <br>
 ### Select: SCSI2 (0,0,0) (sdb)
 
-<img src="pictures/osp21-82.jpg"  width="960">
+<img src="pictures/OS21-079.jpg"  width="960">
 
 * Create A New Partition Table: Yes
 
-<img src="pictures/osp21-83.jpg"  width="960">
-
-
-<img src="pictures/osp21-84.jpg"  width="960">
+<img src="pictures/OS21-080.jpg"  width="960">
 
 * Create A New Partition
 
-<img src="pictures/osp21-85.jpg"  width="960">
+<img src="pictures/OS21-081.jpg"  width="960">
 
-* Partition Size: 257 MB
+* **CLICK**: "Use as"
+
+<img src="pictures/OS21-082.jpg"  width="960">
+
+* Partition Size: 1024 MB
   * <span style="color:red; font-weight:bold; font-size:larger;">
     You might want to consider other SWAP sizes:
     </span>
@@ -257,26 +253,25 @@
     * 1024MB
     * 2048MB
 
-<img src="pictures/osp21-86.jpg"  width="960">
+<img src="pictures/OS21-083.jpg"  width="960">
 
 * Partition Type: Primary
 
-<img src="pictures/osp21-87.jpg"  width="960">
+<img src="pictures/OS21-084.jpg"  width="960">
 
 * Location: Beginning
 
-<img src="pictures/osp21-88.jpg"  width="960">
+<img src="pictures/OS21-085.jpg"  width="960">
 
 * Set Partition As A Swap Area
 
-<img src="pictures/osp21-90.jpg"  width="960">
-
-
-<img src="pictures/osp21-91.jpg"  width="960">
+<img src="pictures/OS21-086.jpg"  width="960">
+<img src="pictures/OS21-087.jpg"  width="960">
 
 * Done: Swap Partition
 
-<img src="pictures/osp21-92.jpg"  width="960">
+<img src="pictures/OS21-088.jpg"  width="960">
+<img src="pictures/OS21-089.jpg"  width="960">
 
 * Second Partitiion
 
