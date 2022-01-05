@@ -68,6 +68,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [Downloading Debian ISO Image](DebianISOImage.md)
 * [RENAMing DEB11-01 to DEB11-02](DebianGuestExportOva3.md)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
+* [EXPORTing as "DEB11-02.ova"](DebianGuestExportOva4.md)
 
 <br id="idx03">
 # Running a VirtualBox Debian Guest

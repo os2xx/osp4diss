@@ -7,7 +7,7 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestOnVirtualBox1.md)
+[PREV](DebianGuestExportOva1.md)
 [NEXT](DebianGuestOnVirtualBox3.md)
 
 # New VirtualBox Guest: General

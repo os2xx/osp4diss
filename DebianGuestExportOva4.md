@@ -7,27 +7,29 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestOnVirtualBox1.md)
-[NEXT](DebianGuestExportOva1.md)
+[PREV](InstallDebianNetinst.md)
+[NEXT](index.md#idx03)
 
 # Exporting a Debian Guest In OVA Format
 
-## <span style="color:red; font-weight:bold; font-size:larger;">Eg. DEB11-00</span>
+## <span style="color:red; font-weight:bold; font-size:larger;">Eg. DEB11-02</span>
 
-<img src="pictures/OS21-007.jpg"  width="960">
+<img src="pictures/OS21-038.jpg"  width="960">
 
 ### (File) Export Applience...
 
-<img src="pictures/OS21-008.jpg"  width="960">
+<img src="pictures/OS21-117.jpg"  width="960">
+
 
 <br>
-### Virtual Machines To Export: DEB11-00
+### Virtual Machines To Export: DEB11-02
 
-<img src="pictures/OS21-009.jpg"  width="960">
+<img src="pictures/OS21-118.jpg"  width="960">
+<img src="pictures/OS21-119.jpg"  width="960">
 
-### Export Done (DEB11-00)
+### Export Done (DEB11-02)
 
-<img src="pictures/OS21-007.jpg"  width="960">
+<img src="pictures/OS21-038.jpg"  width="960">
 
 <br id="endofpage"><br>
 

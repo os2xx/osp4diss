@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](DebianISOImage.md)
-[NEXT](index.md)
+[NEXT](DebianGuestExportOva4.md)
 
 # Installing Debian NetInst (guest) on VirtualBox
 
@@ -236,12 +236,9 @@
 * Create A New Partition Table: Yes
 
 <img src="pictures/OS21-080.jpg"  width="960">
-
-* Create A New Partition
-
 <img src="pictures/OS21-081.jpg"  width="960">
 
-* **CLICK**: "Use as"
+* Create A New Partition
 
 <img src="pictures/OS21-082.jpg"  width="960">
 
@@ -263,141 +260,142 @@
 
 <img src="pictures/OS21-085.jpg"  width="960">
 
-* Set Partition As A Swap Area
+* **CLICK**: "Use as"
 
 <img src="pictures/OS21-086.jpg"  width="960">
+
+* Set Partition As A Swap Area
+
 <img src="pictures/OS21-087.jpg"  width="960">
 
 * Done: Swap Partition
 
 <img src="pictures/OS21-088.jpg"  width="960">
-<img src="pictures/OS21-089.jpg"  width="960">
 
 * Second Partitiion
 
-<img src="pictures/osp21-93.jpg"  width="960">
+<img src="pictures/OS21-089.jpg"  width="960">
 
 * Create A New Partition
 
-<img src="pictures/osp21-94.jpg"  width="960">
+<img src="pictures/OS21-090.jpg"  width="960">
 
-* Partition Size: 68.5 GB
+* Partition Size: 33.3 GB
 
-<img src="pictures/osp21-95.jpg"  width="960">
+<img src="pictures/OS21-091.jpg"  width="960">
 
 * Partition Type: Primary
 
-<img src="pictures/osp21-96.jpg"  width="960">
+<img src="pictures/OS21-092.jpg"  width="960">
 
-* Change Mounting Point From /home to /lfs
+* Click Mount Point /home
 
-<img src="pictures/osp21-97.jpg"  width="960">
+<img src="pictures/OS21-093.jpg"  width="960">
 
 * Select: Enter Manually
 
+<img src="pictures/OS21-094.jpg"  width="960">
 
-<img src="pictures/osp21-98.jpg"  width="960">
+* Mounting Point: Linux From Scratch (/mnt/lfs)
 
-* Mounting Point: Linux From Scratch (/lfs)
-
-<img src="pictures/osp21-99.jpg"  width="960">
+<img src="pictures/OS21-095.jpg"  width="960">
 
 * Done Setting Up The Partition
 
-<img src="pictures/osp21-A0.jpg"  width="960">
+<img src="pictures/OS21-096.jpg"  width="960">
 
 * Finish Partitioning And Write Changes To Disk
 
-<img src="pictures/osp21-A1.jpg"  width="960">
+<img src="pictures/OS21-097.jpg"  width="960">
 
 * Write The Changes To Disk: Yes
 
-<img src="pictures/osp21-A2.jpg"  width="960">
+<img src="pictures/OS21-098.jpg"  width="960">
 
 <br>
 ### Partition Disk Process
 
-<img src="pictures/osp21-A3.jpg"  width="960">
+<img src="pictures/OS21-099.jpg"  width="960">
 
 <br>
 ### Installing The Base System
 
-<img src="pictures/osp21-A4.jpg"  width="960">
+<img src="pictures/OS21-100.jpg"  width="960">
 
 <br>
 ### Configuring The Package Manager
 
 * Scan Another CD or DVD: No
 
-<img src="pictures/osp21-A5.jpg"  width="960">
+<img src="pictures/OS21-101.jpg"  width="960">
 
 * Debian Archive Mirror Country: Indonesia
 
-<img src="pictures/osp21-A6.jpg"  width="960">
+<img src="pictures/OS21-102.jpg"  width="960">
 
 * Debian Archive Mirror: deb.debian.org
 
-<img src="pictures/osp21-A7.jpg"  width="960">
+<img src="pictures/OS21-103.jpg"  width="960">
 
 * HTTP proxy: none
 
-<img src="pictures/osp21-A8.jpg"  width="960">
+<img src="pictures/OS21-104.jpg"  width="960">
 
 * Configuring APT
 
-<img src="pictures/osp21-A9.jpg"  width="960">
+<img src="pictures/OS21-105.jpg"  width="960">
 
 <br>
-### Configuring Popularity-Contest: No
+### Configuring Popularity-Contest: No (Up to you!)
 
-<img src="pictures/osp21-B0.jpg"  width="960">
+<img src="pictures/OS21-106.jpg"  width="960">
 
 <br>
 ### Software Selection
 * SSH server
 * Standart System Utilities
 
-<img src="pictures/osp21-B1.jpg"  width="960">
+<img src="pictures/OS21-107.jpg"  width="960">
 
 <br>
 ### Select And Install Software
 
-<img src="pictures/osp21-B2.jpg"  width="960">
+<img src="pictures/OS21-108.jpg"  width="960">
 
 <br>
 ### Install The GRUB Boot Loader On A Harddisk
 
 * Install the GRUB Boot Loader to the master boor record: YES
 
-<img src="pictures/osp21-B3.jpg"  width="960">
+<img src="pictures/OS21-109.jpg"  width="960">
 
 * Enter Device Manually: /dev/sda
 
-<img src="pictures/osp21-B4.jpg"  width="960">
+<img src="pictures/OS21-110.jpg"  width="960">
 
 * Installing GRUB Boot Loader
 
-<img src="pictures/osp21-B5.jpg"  width="960">
+<img src="pictures/OS21-111.jpg"  width="960">
 
 <br>
 ### Installation Complete
 
-<img src="pictures/osp21-B6.jpg"  width="960">
+<img src="pictures/OS21-112.jpg"  width="960">
 
 <br>
 ### Rebooting The System
 
-<img src="pictures/osp21-B7.jpg"  width="960">
+<img src="pictures/OS21-113.jpg"  width="960">
 
 <br>
 ### GRUB Loader
 
-<img src="pictures/B-OSP-42.jpg"  width="960">
+<img src="pictures/OS21-114.jpg"  width="960">
 
 <br>
 ### Login 
 
-<img src="pictures/osp21-B8.jpg"  width="960">
+<img src="pictures/OS21-115.jpg"  width="960">
 
 ```
 apt-get update
@@ -405,40 +403,7 @@ apt-get dist-upgrade -y;
 poweroff
 ```
 
-<img src="pictures/osp21-B9.jpg"  width="960">
-
-<br>
-### Remove SATA Attachment 
-
-* Settings
-
-<img src="pictures/osp21-C0.jpg"  width="960">
-
-* Storage: Controller: SATA: EMPTY
-
-<img src="pictures/osp21-C1.jpg"  width="960">
-
-* Remove Attachment
-
-<img src="pictures/osp21-C2.jpg"  width="960">
-
-<br>
-### SETTING: Done
-
-<img src="pictures/osp21-C3.jpg"  width="960">
-
-<br>
-## EXPORT Debian Guest:
-
-* In this example: DEB10-00-1-INSTALL
-* For Debian 11, the name should be: **DEB11-00-1-INSTALL**
-
-<img src="pictures/osp21-C4.jpg"  width="960">
-
-<img src="pictures/osp21-C5.jpg"  width="960">
-
-<img src="pictures/osp21-C6.jpg"  width="960">
-
+<img src="pictures/OS21-116.jpg"  width="960">
 
 <br>
 # DONE

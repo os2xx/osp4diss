@@ -7,8 +7,8 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](DebianGuestImportOva.md)
+[PREV](DebianGuestExportOva.md)
+[NEXT](DebianGuestOnVirtualBox2.md)
 
 # Renaming a Debian Guest
 
