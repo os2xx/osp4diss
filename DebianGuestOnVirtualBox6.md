@@ -10,9 +10,7 @@
 [PREV](DebianGuestOnVirtualBox5.md)
 [NEXT](DebianGuestOnVirtualBox7.md)
 
-# New VirtualBox Guest: Audio
-
-* Example **DEB11-01**
+# New VirtualBox Guest: Audio <span style="color:red;">(E.g., DEB11-01)</span>
 
 ### Click SETTING
 

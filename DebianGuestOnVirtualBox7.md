@@ -8,11 +8,10 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](DebianGuestOnVirtualBox6.md)
-[NEXT](DebianISOImage.md)
+[NEXT](DebianGuestExportOva2.md)
 
-# New VirtualBox Guest: Network
+# VirtualBox Guest: Network <span style="color:red;">(E.g., DEB11-01)</span>
 
-* Example **DEB10-00-0-64G+64G-EMPTY**
 * SSH: Forward from host 127.0.0.1:6022 to guest 10.0.2.15:22
 * Jekyll: Forward from host 127.0.0.1:5000 to guest 10.0.2.15:4000 (Jekyll)
 * You might want to use other settings
@@ -52,5 +51,5 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](DebianGuestOnVirtualBox6.md)
-[NEXT](DebianISOImage.md)
+[NEXT](DebianGuestExportOva2.md)
 

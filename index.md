@@ -49,7 +49,6 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [EXPORTing OVA](DebianGuestExportOva.md) -- e.g. DEB11-00.ova
 * [RENAMing OVA](DebianGuestExportOva1.md) -- e.g. rename DEB11-00 to DEB11-01
 * [IMPORTing a VirtualBox Guest with a different Name](DebianGuestImportOva.md)
-* [EXPORT IMPORT VirtualBox Guest(s)](ExportImportGuests.md)
 * [DELETING Debian VirtualBox Guest(s)](DebianGuestDeleteOva.md)
 
 <br id="idx02">
@@ -69,7 +68,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [Downloading Debian ISO Image](DebianISOImage.md)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
 * [EXPORTing OVA](DebianGuestExportOva4.md) -- e.g. DEB11-02.ova
-* [Troubleshooting: DNS Failure](osp-117.md)
+* <span style="color:red;font-weight:bold;">Troubleshooting</span> -- [DNS Failure](osp-117.md)
 
 <br id="idx03">
 # Running a VirtualBox Debian Guest
@@ -89,9 +88,8 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 <br id="idx04">
 # Dress Up Your Virtual Guest
 
-* [IMPORT](#idx01) your Virtual Guest from "Guest-01a.ova".
-* [RENAME](#idx01) the Guest to "Guest-01b".
 * [PASTE: passing “NEW LINE” or not?](osp-116.md)
+* [DNS Server TEST](osp-118.md)
 * [Update Your Debian Guest](osp-102.md)
 * [Adding Debian Packages](osp-103.md)
 * [Adding UserName](osp-104.md) -- E.g. "dummy" and "CicakBinKadal"

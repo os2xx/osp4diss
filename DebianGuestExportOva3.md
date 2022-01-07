@@ -7,8 +7,8 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](DebianGuestImportOva.md)
+[PREV](DebianGuestExportOva2.md)
+[NEXT](DebianISOImage.md)
 
 # Renaming a Debian Guest
 
@@ -39,7 +39,8 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](DebianGuestImportOva.md)
+[PREV](DebianGuestExportOva2.md)
+[NEXT](DebianISOImage.md)
 <br>
+
 

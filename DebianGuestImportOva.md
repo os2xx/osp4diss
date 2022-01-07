@@ -7,38 +7,39 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestExportOva.md)
-[NEXT](ExportImportGuests.md)
+[PREV](index.md#idx01)
+[NEXT](index.md#idx01)
 
-# Importing a Debian Guest In OVA Format
+# Importing a GUEST OVA and rename it to <span style="color:red;">“WhatEverGuest”</span>
 
-## Eg. You might want to keep <span style="color:red; font-weight:bold; font-size:larger;">DEB10-00-0-64G+64G-EMPTY</span> as a backup, and using <span style="color:red; font-weight:bold; font-size:larger;">DEB10-00-1-INSTALL</span> for daily usage.
+<img src="pictures/G-OSP-03.jpg"  width="960">
 
-### (Tools) IMPORT
+* Select File/Import Applience...
 
-<img src="pictures/osp21-36.jpg"  width="960">
+<img src="pictures/G-OSP-04.jpg"  width="960">
+
+* Locate and select an OVA file
+
+<img src="pictures/G-OSP-05.jpg"  width="960">
+
+* Open the OVA file
+
+<img src="pictures/G-OSP-06.jpg"  width="960">
+
+* Rename guest to "WhatEverGuest"
+
+<img src="pictures/G-OSP-08.jpg"  width="960">
+
+* Import
+
+<img src="pictures/G-OSP-09.jpg"  width="960">
+
+* Guest "WhatEverGuest" is ready.
+
+<img src="pictures/G-OSP-10.jpg"  width="960">
 
 <br>
-### Applience To Import: DEB10-00-0-64G+64G-EMPTY.ova
-
-<img src="pictures/osp21-37.jpg"  width="960">
-
-<br>
-### NEXT
-
-<img src="pictures/osp21-38.jpg"  width="960">
-
-<br>
-### Applience Setting
-
-* Guest Name: DEB10-00-1-INSTALL
-
-<img src="pictures/osp21-39.jpg"  width="960">
-
-<br>
-## Your DEB10-00-1-INSTALL Guest is READY!
-
-<img src="pictures/osp21-40.jpg"  width="960">
+# DONE
 
 <br id="endofpage"><br>
 
@@ -48,7 +49,7 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestExportOva.md)
-[NEXT](ExportImportGuests.md)
+[PREV](DebianGuestImportOva.md)
+[NEXT](DebianGuestDeleteOva.md)
 <br>
 

@@ -10,9 +10,7 @@
 [PREV](DebianGuestOnVirtualBox1.md)
 [NEXT](DebianGuestExportOva1.md)
 
-# Exporting a Debian Guest In OVA Format
-
-## <span style="color:red; font-weight:bold; font-size:larger;">Eg. DEB11-00</span>
+# Exporting a Debian Guest In OVA Format <span style="color:red;">(E.g. DEB11-00)</span>
 
 <img src="pictures/OS21-007.jpg"  width="960">
 
@@ -37,7 +35,7 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](DebianGuestImportOva.md)
+[PREV](DebianGuestOnVirtualBox1.md)
+[NEXT](DebianGuestExportOva1.md)
 <br>
 

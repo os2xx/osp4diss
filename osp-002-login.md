@@ -10,10 +10,15 @@
 [PREV](osp-002-startup.md)
 [NEXT](osp-002-shutdown.md)
 
+## (HOST KEY)
+
+* Linux: &lt;CTRL RIGHT>
+* Windows: &lt;CTRL ALT>
+
 <br>
 # login from console (tty1)
 
-* HIT "ALT-F1"
+* HIT (HOST KEY) F1
 * User: root
 
 <img src="pictures/WK-OSP-07.jpg"  width="960">
@@ -30,7 +35,7 @@ w
 <img src="pictures/WK-OSP-08.jpg"  width="960">
 
 <br>
-## HIT "ALT-F2"
+## HIT (HOST KEY) F2
 
 * login from tty2 as "cbkadal" (or whatever your username is)
 * who is there (w)

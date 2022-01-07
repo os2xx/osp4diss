@@ -7,7 +7,7 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
+[PREV](index.md#idx02)
 [NEXT](DebianGuestExportOva.html)
 
 # Creating a NEW empty VirtualBox Guest
@@ -59,6 +59,7 @@
 <img src="pictures/OS21-006.jpg"  width="960">
 
 <br id="endofpage"><br>
+## Created (and Done)
 
 [HOME](index.md)
 [ABOUT](README.md)
@@ -66,6 +67,6 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](DebianGuestOnVirtualBox2.md)
-
+[PREV](index.md#idx02)
+[NEXT](DebianGuestExportOva.html)
+<br>

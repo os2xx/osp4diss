@@ -7,7 +7,7 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestOnVirtualBox7.md)
+[PREV](DebianGuestExportOva3.md)
 [NEXT](InstallDebianNetinst.md)
 
 # Downloading Debian Netinst with Free Download Manager
@@ -50,7 +50,7 @@ Otherwise, you can download with a regular browser like Firefox or you can insta
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestOnVirtualBox7.md)
+[PREV](DebianGuestExportOva3.md)
 [NEXT](InstallDebianNetinst.md)
 <br>
 

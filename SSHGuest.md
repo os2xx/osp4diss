@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallVirtualBox.md)
-[NEXT](index.md)
+[NEXT](index.md#idx01)
 
 # Downloading PUTTY and WINSCP
 
@@ -66,6 +66,6 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallVirtualBox.md)
-[NEXT](index.md)
+[NEXT](index.md#idx01)
 <br>
 

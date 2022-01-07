@@ -10,9 +10,7 @@
 [PREV](DebianGuestOnVirtualBox3.md)
 [NEXT](DebianGuestOnVirtualBox5.md)
 
-# New VirtualBox Guest: Display
-
-* Example **DEB11-01**
+# New VirtualBox Guest: Display <span style="color:red;">(E.g., DEB11-01)</span>
 
 ### Click SETTING
 

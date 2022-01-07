@@ -10,9 +10,7 @@
 [PREV](DebianGuestExportOva.md)
 [NEXT](DebianGuestOnVirtualBox2.md)
 
-# Renaming a Debian Guest
-
-## <span style="color:red; font-weight:bold; font-size:larger;">E.g. Rename DEB11-00 to DEB11-01</span>
+# Renaming a Debian Guest <span style="color:red;">(E.g. DEB11-00 to DEB11-01)</span>
 
 <img src="pictures/OS21-007.jpg"  width="960">
 
@@ -39,7 +37,7 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](DebianGuestImportOva.md)
+[PREV](DebianGuestExportOva.md)
+[NEXT](DebianGuestOnVirtualBox2.md)
 <br>
 

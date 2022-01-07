@@ -10,9 +10,7 @@
 [PREV](DebianGuestOnVirtualBox2.md)
 [NEXT](DebianGuestOnVirtualBox4.md)
 
-# New VirtualBox Guest: System
-
-* Example **DEB11-01**
+# New VirtualBox Guest: System <span style="color:red;">(E.g., DEB11-01)</span>
 
 ## Click SETTING
 
@@ -48,4 +46,6 @@
 [BOTTOM](#endofpage)
 [PREV](DebianGuestOnVirtualBox2.md)
 [NEXT](DebianGuestOnVirtualBox4.md)
+<br>
+
 

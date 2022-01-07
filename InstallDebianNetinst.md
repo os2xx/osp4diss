@@ -130,6 +130,11 @@
 <img src="pictures/OS21-056.jpg"  width="960">
 
 <br>
+### <span style="color:red;">Troubleshooting: DNS Server Failure</span>
+
+* Sometimes, the DNS Server does not set properly ([Check here](osp-117.md)).
+
+<br>
 ### Set Up Users And Passwords
 
 * Root Password: cbkadal (or else)

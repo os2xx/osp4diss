@@ -7,31 +7,27 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](ExportImportGuests.md)
-[NEXT](index.md)
+[PREV](DebianGuestImportOva.md)
+[NEXT](DebianGuestDeleteOva.md)
 
-# Deleting Debian Guests
+# More About Export Import Guests
 
-## Sometimes you might want to delete your Virtual Guest(s).
+## Delete OLD-GUEST
 
-### Eg. OSPD105 and OSPD105a
+* Select OLD-GUEST
 
-<img src="pictures/J-OSP-00.jpg"  width="960">
+<img src="pictures/G-OSP-00.jpg"  width="960">
 
-<br>
-## Select and Click Right, then REMOVE
+* Select Remove
 
-<img src="pictures/J-OSP-01.jpg"  width="960">
+<img src="pictures/G-OSP-01.jpg"  width="960">
 
-<br>
-## Delete All Files
+* Select Delete All Files
 
-<img src="pictures/J-OSP-02.jpg"  width="960">
+<img src="pictures/G-OSP-02.jpg"  width="960">
 
 <br>
-## DONE!
-
-<img src="pictures/J-OSP-03.jpg"  width="960">
+# DONE
 
 <br id="endofpage"><br>
 
@@ -41,7 +37,7 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](ExportImportGuests.md)
-[NEXT](index.md)
+[PREV](DebianGuestImportOva.md)
+[NEXT](DebianGuestDeleteOva.md)
 <br>
 

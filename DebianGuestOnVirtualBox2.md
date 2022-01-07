@@ -10,9 +10,7 @@
 [PREV](DebianGuestExportOva1.md)
 [NEXT](DebianGuestOnVirtualBox3.md)
 
-# New VirtualBox Guest: General
-
-* Example **DEB11-01**
+# VirtualBox Guest: General <span style="color:red;">(E.g., DEB11-01)</span>
 
 ### Click SETTING
 
@@ -36,6 +34,6 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestOnVirtualBox1.md)
+[PREV](DebianGuestExportOva1.md)
 [NEXT](DebianGuestOnVirtualBox3.md)
-
+<br>

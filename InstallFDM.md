@@ -7,7 +7,7 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
+[PREV](index.md#idx00b)
 [NEXT](InstallVirtualBox.md)
 <br>
 
@@ -60,7 +60,7 @@ Otherwise, you can download with a regular browser like Firefox or install the <
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
+[PREV](index.md#idx00b)
 [NEXT](InstallVirtualBox.md)
 <br>
 

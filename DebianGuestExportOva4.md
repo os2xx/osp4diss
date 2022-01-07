@@ -39,7 +39,7 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](DebianGuestImportOva.md)
+[PREV](InstallDebianNetinst.md)
+[NEXT](index.md#idx03)
 <br>
 

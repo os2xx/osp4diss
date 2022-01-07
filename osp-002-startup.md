@@ -7,7 +7,7 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
+[PREV](index.md#idx03)
 [NEXT](osp-002-login.md)
 
 # Startup a Debian Guest (Eg. D105-W200831)
@@ -28,7 +28,7 @@
 [GITHUB](/https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
+[PREV](index.md#idx03)
 [NEXT](osp-002-login.md)
 <br>
 

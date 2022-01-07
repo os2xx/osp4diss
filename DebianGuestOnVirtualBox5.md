@@ -10,9 +10,7 @@
 [PREV](DebianGuestOnVirtualBox4.md)
 [NEXT](DebianGuestOnVirtualBox6.md)
 
-# New VirtualBox Guest: Storage
-
-* Example **DEB11-01**
+# New VirtualBox Guest: Storage <span style="color:red;">(E.g., DEB11-01)</span>
 
 ### Click SETTING
 
@@ -24,12 +22,14 @@
 * RIGHT click (Remove Attachment)
 
 <img src="pictures/OS21-019.jpg"  width="960">
+<br>
 
-* Remove Empty 
+* Remove Empty (IDE)
 
 <img src="pictures/OS21-020.jpg"  width="960">
+<br>
 
-* Remove IDE Controller
+* Remove Controller (IDE)
 
 <img src="pictures/OS21-021.jpg"  width="960">
 
