@@ -33,7 +33,7 @@ The following is a step-by-step guide to set up a Virtual Debian Guest on Virtua
 # VirtualBox Guest Preparation
 
 It would be best if you had a hypervisor, i.e., VirtualBox.
-It can be installed on Windows 10, macOS, or Linux.
+It can be installed on Intel's processors of Windows 10, macOS, or Linux.
 Using a Download Manager might help for a less reliable internet connection.
 For Windows 10, you also need to install PUTTY and WINSCP.
 
