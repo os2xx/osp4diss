@@ -23,10 +23,8 @@ The following is a step-by-step guide to set up a Virtual Debian Guest on Virtua
 * [Dress Up Your Virtual Guest](#idx04)
 * [PULL from / PUSH to GitHub](#idx05)
 * [More](#idx06)
-* OS Assignments
-  * TBA.
-* SP Assignments
-  * TBA.
+* [OS Assignments](AOS.md)
+* [SP Assignments](ASP.md)
 * [ETC](#idx08)
 
 <br id="idx00b">
@@ -122,7 +120,8 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 <br id="idx07">
 # Assignments
 
-* TBA
+* [OS Assignments](AOS.md)
+* [SP Assignments](ASP.md)
 
 <br id="idx08">
 # ETC
