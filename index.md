@@ -98,13 +98,12 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [.vimrc](osp-107.md)
 * [.bash_aliases](osp-108.md)
 * [SUPERUSER](osp-109.md)
-* [EXPORT](#idx01) your Virtual Guest to an OVA file. Estimated OVA size 614 MB.
+* [RENAME](DebianGuestExportOva1.md) and [EXPORT](DebianGuestExportOva.md).
+  E.g., "OSP221.ova".  Estimated OVA size 747 MB.
 
 <br id="idx05">
 # PULL from / PUSH to GitHub.com
 
-* [IMPORT](#idx01) your Virtual Guest.
-* [RENAME](#idx01) your Virtual Guest.
 * [SSH: Generating public/private rsa key pair](osp-110.md)
 * [SSH: Put a Public Key at GitHub.com](osp-111.md)
 * [GIT: .gitconfig](osp-112.md)
