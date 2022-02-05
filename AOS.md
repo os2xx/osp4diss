@@ -14,7 +14,8 @@
 <br id="idx00">
 ## Week 00
 
-* [TBA](W00-01.md)
+* [Week 00 Assignments #1](W00-01.md)
+* [Week 00 Assignments #2](W00-02.md)
 
 <br id="endofpage"><br>
 [HOME](index.md)
