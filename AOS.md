@@ -11,7 +11,8 @@
 
 # OS Assignments
 
-<br id="idx00">
+### [Weekly DeadLine List](https://os.vlsm.org/#idx02)
+
 ## Week 00
 
 * [Week 00 Assignments #1](W00-01.md)
