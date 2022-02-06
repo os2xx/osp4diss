@@ -16,6 +16,8 @@
 
 * [Week 00 Assignments #1](W00-01.md)
 * [Week 00 Assignments #2](W00-02.md)
+* [Week 00 Assignments #3](W00-03.md)
+* [Week 00 Assignments #4](W00-04.md)
 
 <br id="endofpage"><br>
 [HOME](index.md)
