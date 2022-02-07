@@ -9,7 +9,7 @@
 [PREV](index.md)
 [NEXT](index.md)
 
-# SP Assignments
+# SP Weekly Assignments
 
 ### [Weekly DeadLine List](https://sp.vlsm.org/#idx02)
 

@@ -9,7 +9,7 @@
 [PREV](index.md)
 [NEXT](index.md)
 
-# OS Assignments
+# OS Weekly Assignments
 
 ### [Weekly DeadLine List](https://os.vlsm.org/#idx02)
 

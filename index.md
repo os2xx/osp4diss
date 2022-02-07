@@ -23,8 +23,8 @@ The following is a step-by-step guide to set up a Virtual Debian Guest on Virtua
 * [Dress Up Your Virtual Guest](#idx04)
 * [PULL from / PUSH to GitHub](#idx05)
 * [More](#idx06)
-* [OS Assignments](AOS.md)
-* [SP Assignments](ASP.md)
+* [OS Weekly Assignments](AOS.md)
+* [SP Weekly Assignments](ASP.md)
 * [ETC](#idx08)
 
 <br id="idx00b">
