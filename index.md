@@ -129,7 +129,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [Making and encrypting a tarball](osp-001.md)
 * [FUSE Demo](osp-100.md)
 * [Kleopatra (Windows 10)](CBKadal3.md)
-* [OS Public Key](ETC/ospubkey.txt)
+* [OS Public Key](ETC/rmspubkey.txt)
 
 <br>
 <hr>
