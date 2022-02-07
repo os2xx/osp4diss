@@ -16,12 +16,12 @@
 ## Week 00
 
 * [Week 00 Assignments #1: GitHub Account](S00-01.md)
-* [Week 00 Assignments #2](S00-02.md)
-* [Week 00 Assignments #3](S00-03.md)
-* [Week 00 Assignments #4](S00-04.md)
-* [Week 00 Assignments #5](S00-05.md)
-* [Week 00 Assignments #6](S00-06.md)
-* [Week 00 Assignments #7](S00-07.md)
+* [Week 00 Assignments #2: "TXT/mylog.txt"](S00-02.md)
+* [Week 00 Assignments #3: Create Your GitHub Page](S00-03.md)
+* [Week 00 Assignments #4: Course Registration](S00-04.md)
+* [Week 00 Assignments #5: Reading Assignment](S00-05.md)
+* [Week 00 Assignments #6: Setup a VirtualBox Debian Guest](S00-06.md)
+* [Week 00 Assignments #7: GnuPG](S00-07.md)
 
 <br id="idx01">
 ## Week 01+
