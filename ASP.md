@@ -33,7 +33,8 @@
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
-
+  * See also <https://github.com/cbkadal/sp221/tree/master/TXT/>
+  
 <br id="idx01">
 ## Week 01+
 
