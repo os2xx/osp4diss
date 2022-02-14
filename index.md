@@ -107,6 +107,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [GIT: .gitconfig](osp-112.md)
 * [GIT: cloning from GitHub.com](osp-113.md)
 * [mylog: Updating add commit push](osp-114.md)
+* [The 4 GIT MANTRAS: (pull), add, commit, push](osp-119.md)
 * [EXPORT](#idx01) your Virtual Guest to an OVA file. Estimated OVA size 645 MB.
 
 <br id="idx06">
