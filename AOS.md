@@ -27,8 +27,7 @@
 * [Week 01 Assignments #1: Setup a VirtualBox Debian Guest](W01-01.md)
 * [Week 01 Assignments #2: The ATM Way: GSGS and Read](W01-02.md)
 * [Week 01 Assignments #3: LINKS/](W01-03.md)
-
-### UPDATE!
+* [Week 01 Assignments #4: Finishing](W01-04.md)
 
 <br id="idx02">
 ## Week 02+
