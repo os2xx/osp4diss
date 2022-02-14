@@ -11,8 +11,10 @@
 
 # OS Weekly Assignments
 
-### [Weekly DeadLine List](https://os.vlsm.org/#idx02)
+* [Week 00](#idx00) -- Deadline: 14-Feb-2022.
+* [Week 01](#idx01) -- Deadline: 21-Feb-2022.
 
+<br id="idx00">
 ## Week 00
 
 * [Week 00 Assignments #1: GitHub Account](W00-01.md)
@@ -28,6 +30,11 @@
 * [Week 01 Assignments #2: The ATM Way: GSGS and Read](W01-02.md)
 * [Week 01 Assignments #3: LINKS/](W01-03.md)
 * [Week 01 Assignments #4: Finishing](W01-04.md)
+* Submit (PUSH) your assignments.
+  * Files in TXT:
+    * mylog.txt
+    * myupdate.txt
+  * See also <https://github.com/cbkadal/os221/tree/master/TXT/>
 
 <br id="idx02">
 ## Week 02+

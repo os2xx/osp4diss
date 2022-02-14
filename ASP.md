@@ -11,8 +11,10 @@
 
 # SP Weekly Assignments
 
-### [Weekly DeadLine List](https://sp.vlsm.org/#idx02)
+* [Week 00](#idx00) -- Deadline: 14-Feb-2022.
+* [Week 01](#idx01) -- Deadline: 21-Feb-2022.
 
+<br id="idx00">
 ## Week 00
 
 * [Week 00 Assignments #1: GitHub Account](S00-01.md)
@@ -36,7 +38,25 @@
   * See also <https://github.com/cbkadal/sp221/tree/master/TXT/>
   
 <br id="idx01">
-## Week 01+
+## Week 01
+
+* TBA
+* Submit (PUSH) your assignments.
+  * Update script "myscript.txt":
+    * Create and encrypt the assignment TARBALL
+  * Files in TXT:
+    * mylog.txt
+    * mypubkey.txt
+    * myscript.sh
+    * myupdate.txt
+    * myW01.tar.bz2.asc
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * See also <https://github.com/cbkadal/sp221/tree/master/TXT/>
+
+<br id="idx01">
+## Week 02+
 
 * TBA
 
