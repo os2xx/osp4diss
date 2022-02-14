@@ -22,7 +22,16 @@
 * [Week 00 Assignments #5: Reading Assignment](W00-05.md)
 
 <br id="idx01">
-## Week 01+
+## Week 01
+
+* [Week 01 Assignments #1: Setup a VirtualBox Debian Guest](W01-01.md)
+* [Week 01 Assignments #2: The ATM Way: GSGS and Read](W01-02.md)
+* [Week 01 Assignments #3: LINKS/](W01-03.md)
+
+### UPDATE!
+
+<br id="idx02">
+## Week 02+
 
 * TBA
 
