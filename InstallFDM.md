@@ -22,6 +22,12 @@ Otherwise, you can download with a regular browser like Firefox or install the <
 ## Downloading FDM
 
 ### URL: [https://www.freedownloadmanager.org/](https://www.freedownloadmanager.org/)
+* NOTE: The current FDM version is
+  <span style="color:red; font-weight:bold; font-size:larger;">6.15.3</span>
+  (or more).
+  <span style="color:red; font-weight:bold; font-size:larger;">THIS IS SUBJECT TO CHANGE!</span>
+* In this example, the FDM version is 6.10.2.
+
 
 <img src="pictures/C-OSP-000.jpg"  width="960">
 
