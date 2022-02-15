@@ -40,10 +40,14 @@
 <br id="idx01">
 ## Week 01
 
-* TBA
-* Submit (PUSH) your assignments.
+* [Week 01 Assignments #1: Preparation](S01-01.md)
+* [Week 01 Assignments #2: Linux Kernel](S01-02.md)
+* [Week 01 Assignments #3: The Linux Programming Interface](S01-03.md)
+* Finishing:
   * Update script "myscript.txt":
     * Create and encrypt the assignment TARBALL
+  * Put string "OS221W01" into file "TXT/myupdate.txt"
+    * E.g. ZZ
   * Files in TXT:
     * mylog.txt
     * mypubkey.txt
@@ -54,8 +58,9 @@
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
   * See also <https://github.com/cbkadal/sp221/tree/master/TXT/>
+  * Submit (PUSH) your assignments.
 
-<br id="idx01">
+<br id="idx02">
 ## Week 02+
 
 * TBA
