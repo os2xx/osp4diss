@@ -24,18 +24,18 @@
 * [Week 00 Assignments #5: Reading Assignment](S00-05.md)
 * [Week 00 Assignments #6: Setup a VirtualBox Debian Guest](S00-06.md)
 * [Week 00 Assignments #7: GnuPG](S00-07.md)
-* Submit (PUSH) your assignments.
-  * Create a script (myscript.txt):
-    * SHA256SUM all "my" files
-    * Sign SHA256SUM to SHA256SUM.asc
-  * Files in TXT:
-    * mylog.txt
-    * mypubkey.txt
-    * myscript.sh
-    * SHA256SUM
-    * SHA256SUM.asc
-  * Always update SHA256SUM/SHA256SUM.asc after changes.
-  * See also <https://github.com/cbkadal/sp221/tree/master/TXT/>
+* Create a script (myscript.txt):
+  * SHA256SUM all "my" files
+  * Sign SHA256SUM to SHA256SUM.asc
+* Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
+  * mylog.txt
+  * mypubkey.txt
+  * myscript.sh
+  * SHA256SUM
+  * SHA256SUM.asc
+* Always update SHA256SUM/SHA256SUM.asc after changes.
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
   
 <br id="idx01">
 ## Week 01
@@ -45,10 +45,10 @@
 * [Week 01 Assignments #3: The Linux Programming Interface](S01-03.md)
 * Finishing:
   * Update script "myscript.txt":
-    * Create and encrypt the assignment TARBALL
-  * Put string "OS221W01" into file "TXT/myupdate.txt"
-    * E.g. ZZ
-  * Files in TXT:
+    * See also [here](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
+  * Put string "OS221W01" (WEEK 01) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
@@ -57,8 +57,8 @@
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
-  * See also <https://github.com/cbkadal/sp221/tree/master/TXT/>
-  * Submit (PUSH) your assignments.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx02">
 ## Week 02+
