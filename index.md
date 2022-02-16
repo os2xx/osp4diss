@@ -22,10 +22,9 @@ The following is a step-by-step guide to set up a Virtual Debian Guest on Virtua
 * [Running a VirtualBox Debian Guest](#idx03)
 * [Dress Up Your Virtual Guest](#idx04)
 * [PULL from / PUSH to GitHub](#idx05)
-* [More](#idx06)
-* [OS Weekly Assignments](AOS.md)
-* [SP Weekly Assignments](ASP.md)
-* [ETC](#idx08)
+* [More Links](#idx06)
+* [Operating Systems&nbsp; Weekly Assignments](AOS.md)
+* [System Programming Weekly Assignments](ASP.md)
 
 <br id="idx00b">
 # VirtualBox Guest Preparation
@@ -114,23 +113,13 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 # More
 
 * [Log Codes](ETC/logCodes.txt)
+* [OS Public Key](ETC/rmspubkey.txt)
 * [X11 for Windows 10](osp-003.md)
 * [How To Shrink and Clean the VirtualBox VDI File](https://lfs.vlsm.org/LFS-02-5.html)
 * [TOP (was Table Of Processes)](osp-101.md)
-
-<br id="idx07">
-# Assignments
-
-* [OS Assignments](AOS.md)
-* [SP Assignments](ASP.md)
-
-<br id="idx08">
-# ETC
-
 * [Making and encrypting a tarball](osp-001.md)
 * [FUSE Demo](osp-100.md)
 * [Kleopatra (Windows 10)](CBKadal3.md)
-* [OS Public Key](ETC/rmspubkey.txt)
 
 <br>
 <hr>
