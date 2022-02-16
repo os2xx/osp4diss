@@ -30,13 +30,15 @@
 * [Week 01 Assignments #2: The ATM Way: GSGS and Read](W01-02.md)
 * [Week 01 Assignments #3: LINKS/](W01-03.md)
 * [Week 01 Assignments #4: Finishing](W01-04.md)
-* Submit (PUSH) your assignments with files in "TXT/":
+* Recheck folder "TXT/":
   * mylog.txt
     * See log codes at <https://osp4diss.vlsm.org/ETC/logCodes.txt>
     * For example, see cbkadal's <https://cbkadal.github.io/os221/TXT/mylog.txt>
   * myupdate.txt
     * For Week 01, fill "myupdate.txt" with "OS221W01"
     * For example, see cbkadal's <https://cbkadal.github.io/os221/TXT/myupdate.txt>
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx02">
 ## Week 02+
