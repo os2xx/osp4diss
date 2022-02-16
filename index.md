@@ -37,7 +37,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [FDM: Free Download Manager (Optional)](InstallFDM.md)
 * [Downloading and Installing VirtualBox](InstallVirtualBox.md)
 * [Downloading and Installing PUTTY and WINSCP](SSHGuest.md)
-* [More On MacOS](https://fxdros.github.io/virtualbox-on-macos/)
+* [More On Intel based MacOS](https://fxdros.github.io/virtualbox-on-macos/)
   --- managed by FXDROS, since 2021.
 
 <br id="idx01">
@@ -65,7 +65,11 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [Downloading Debian ISO Image](DebianISOImage.md)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
 * [EXPORTing OVA](DebianGuestExportOva4.md) -- e.g. DEB11-02.ova
-* <span style="color:red;font-weight:bold;">Troubleshooting</span> -- [DNS Failure](osp-117.md)
+* <span style="color:red;font-weight:bold;">Troubleshooting</span>
+  * [DNS Failure](osp-117.md)
+  * [Simple Windows Troubleshooting Tools](https://rahmatm.samik-ibrahim.vlsm.org/2021/10/four-simple-windows-troubleshooting.html)
+  * [Windows 10: SFC and DISM mantras](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/windows-10-sfc-and-dism-mantras.html)
+  * [Intel based MacBook](https://fxdros.github.io/virtualbox-on-macos/)
 
 <br id="idx03">
 # Running a VirtualBox Debian Guest
