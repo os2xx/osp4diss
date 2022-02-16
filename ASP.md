@@ -27,6 +27,7 @@
 * Create a script (myscript.txt):
   * SHA256SUM all "my" files
   * Sign SHA256SUM to SHA256SUM.asc
+  * See also <https://cbkadal.github.io/sp221/TXT/myscript.sh>
 * Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
   * mylog.txt
   * mypubkey.txt
