@@ -46,11 +46,20 @@
 
 * [Week 02 Assignments #1: Readings, Watchings, and Demos](W02-01.md)
 * [Week 02 Assignments #2: GnuPG](W02-02.md)
-* [XXX](W02-tmptmp2.md)
-* [XXX](W02-tmptmp4.md)
-* [XXX](W02-tmptmp5.md)
-* [XXX](W02-tmptmp6.md)
-* [XXX](W02-tmptmp7.md)
+* Week 02 Assignments #3: Update "LINKS/". See also [Week 01 Assignments #3](W01-03.md)
+* [Week 02 Assignments #4: Review 6 links every week!](W02-08.md)
+* [Week 02 Assignments #5: Finishing](W02-09.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+  * myupdate.txt
+  * myW02.tar.bz2.asc
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx03">
 ## Week 03+
