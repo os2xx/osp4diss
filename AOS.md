@@ -45,6 +45,12 @@
 ## Week 02
 
 * [Week 02 Assignments #1: Readings, Watchings, and Demos](W02-01.md)
+* [Week 02 Assignments #2: GnuPG](W02-02.md)
+* [XXX](W02-tmptmp2.md)
+* [XXX](W02-tmptmp4.md)
+* [XXX](W02-tmptmp5.md)
+* [XXX](W02-tmptmp6.md)
+* [XXX](W02-tmptmp7.md)
 
 <br id="idx03">
 ## Week 03+

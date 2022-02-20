@@ -6,44 +6,31 @@
 [GITHUB](https://github.com/os2xx/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](W02-05.md)
-[NEXT](W02-07.md)
+[PREV](W02-02.md)
+[NEXT](W02-04.md)
 
 <br>
-## Signing the System Programming public key (Optional)
+## Signing the Operating Systems public key (Optional)
 
 
 ```
-gpg --list-key --keyid-format long
-gpg --list-key 63FB12B215403B20
-gpg --sign-key 63FB12B215403B20
-gpg --list-key 63FB12B215403B20
+gpg --list-key rms46@ui.ac.id
+gpg --sign-key rms46@ui.ac.id
+gpg --list-key rms46@ui.ac.id
 
 ```
 
 ```
-$ gpg --list-key --keyid-format long
-/home/cbkadal/.gnupg/pubring.kbx
---------------------------------
-pub   rsa4096/60914D29C01C81F1 2021-09-11 [SC] [expires: 2023-02-07]
-      CE17E9DB8AD01794E3BAE98B60914D29C01C81F1
-uid                 [ultimate] Cicak Bin Kadal (CBK) <cbkadal@localhost>
-sub   rsa4096/25EEC92DDE20CA4F 2021-09-11 [E] [expires: 2023-02-07]
-
-pub   rsa4096/63FB12B215403B20 2022-02-07 [SC] [expires: 2023-02-07]
-      055FEB594B351CC03DE992C563FB12B215403B20
-uid                 [ unknown] RMS46 (RMS46) <rms46@ui.ac.id>
-sub   rsa4096/CE5731A8D211C243 2022-02-07 [E] [expires: 2023-02-07]
-
-
-$ gpg --list-key 63FB12B215403B20
+$ gpg --list-key rms46@ui.ac.id
 pub   rsa4096 2022-02-07 [SC] [expires: 2023-02-07]
       055FEB594B351CC03DE992C563FB12B215403B20
 uid           [ unknown] RMS46 (RMS46) <rms46@ui.ac.id>
 sub   rsa4096 2022-02-07 [E] [expires: 2023-02-07]
 
-
-$ gpg --sign-key 63FB12B215403B20
+$ gpg --sign-key rms46@ui.ac.id
+gpg (GnuPG) 2.2.27; Copyright (C) 2021 Free Software Foundation, Inc.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
 
 pub  rsa4096/63FB12B215403B20
      created: 2022-02-07  expires: 2023-02-07  usage: SC  
@@ -52,6 +39,7 @@ sub  rsa4096/CE5731A8D211C243
      created: 2022-02-07  expires: 2023-02-07  usage: E   
 [ unknown] (1). RMS46 (RMS46) <rms46@ui.ac.id>
 
+gpg> sign
 
 pub  rsa4096/63FB12B215403B20
      created: 2022-02-07  expires: 2023-02-07  usage: SC  
@@ -66,13 +54,22 @@ key "Cicak Bin Kadal (CBK) <cbkadal@localhost>" (60914D29C01C81F1)
 
 Really sign? (y/N) y
 
+gpg> save
 
-$ gpg --list-key 63FB12B215403B20
+$ gpg --list-key rms46@ui.ac.id
+
 gpg: checking the trustdb
 gpg: marginals needed: 3  completes needed: 1  trust model: pgp
 gpg: depth: 0  valid:   1  signed:   1  trust: 0-, 0q, 0n, 0m, 0f, 1u
 gpg: depth: 1  valid:   1  signed:   0  trust: 1-, 0q, 0n, 0m, 0f, 0u
 gpg: next trustdb check due at 2023-02-07
+/home/cbkadal/.gnupg/pubring.kbx
+--------------------------------
+pub   rsa4096 2021-09-11 [SC] [expires: 2023-02-07]
+      CE17E9DB8AD01794E3BAE98B60914D29C01C81F1
+uid           [ultimate] Cicak Bin Kadal (CBK) <cbkadal@localhost>
+sub   rsa4096 2021-09-11 [E] [expires: 2023-02-07]
+
 pub   rsa4096 2022-02-07 [SC] [expires: 2023-02-07]
       055FEB594B351CC03DE992C563FB12B215403B20
 uid           [  full  ] RMS46 (RMS46) <rms46@ui.ac.id>
@@ -87,7 +84,6 @@ sub   rsa4096 2022-02-07 [E] [expires: 2023-02-07]
 [GITHUB](https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](W02-05.md)
-[NEXT](W02-07.md)
-<br>
+[PREV](W02-02.md)
+[NEXT](W02-04.md)
 

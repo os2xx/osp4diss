@@ -6,8 +6,8 @@
 [GITHUB](https://github.com/os2xx/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](W02-04.md)
-[NEXT](W02-06.md)
+[PREV](W02-01.md)
+[NEXT](W02-03.md)
 
 <br>
 ## Importing the Operating Systems public key
@@ -61,7 +61,6 @@ sub   rsa4096 2022-02-07 [E] [expires: 2023-02-07]
 [GITHUB](https://github.com/os2xx/osp4diss)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](W02-04.md)
-[NEXT](W02-06.md)
-<br>
+[PREV](W02-01.md)
+[NEXT](W02-03.md)
 
