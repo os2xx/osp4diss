@@ -98,7 +98,6 @@ pub   rsa4096 2021-09-11 [SC] [expires: 2022-09-11]
 uid                      Cicak Bin Kadal (CBK) <cbkadal@localhost>
 sub   rsa4096 2021-09-11 [E] [expires: 2022-09-11]
 
-ZCZC 613C45AD 3645B736
 cbkadal@cbkadal:~$
 
 ```
