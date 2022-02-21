@@ -13,6 +13,7 @@
 
 * [Week 00](#idx00) -- Deadline: 14-Feb-2022.
 * [Week 01](#idx01) -- Deadline: 21-Feb-2022.
+* [Week 02](#idx02) -- Deadline: 28-Feb-2022.
 
 <br id="idx00">
 ## Week 00
@@ -62,7 +63,12 @@
     * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx02">
-## Week 02+
+## Week 02
+
+* TBA
+
+<br id="idx03">
+## Week 03+
 
 * TBA
 
