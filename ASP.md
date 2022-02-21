@@ -66,7 +66,26 @@
 ## Week 02
 
 * [Week 02 Assignments #1: Script Download](S02-01.md)
-* [Week 02 Assignments #2: LFS 11.0 Chapter 01-04](S02-01.md)
+* [Week 02 Assignments #2: LFS 11.0 Chapter 01-04](S02-02.md)
+* [Week 02 Assignments #3: LFS 11.0 Chapter 05-07](S02-03.md)
+* Finishing:
+  * Update script "myscript.txt":
+    * See also [here](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
+  * Put string "OS221W02" (WEEK 02) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt
+    * myW01.tar.bz2.asc
+    * myW02.tar.bz2.asc
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx03">
 ## Week 03+
