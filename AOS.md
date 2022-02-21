@@ -48,14 +48,18 @@
 * [Week 02 Assignments #2: GnuPG](W02-02.md)
 * Week 02 Assignments #3: Update "LINKS/". See also [Week 01 Assignments #3](W01-03.md)
 * [Week 02 Assignments #4: Review 6 links every week!](W02-08.md)
-* [Week 02 Assignments #5: Finishing](W02-09.md)
+* [Week 02 Assignments #5: Script Download](W02-10.md)
+* [Week 02 Assignments #6: Finishing](W02-09.md)
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
   * myupdate.txt
+    * OS221W02
   * myW02.tar.bz2.asc
+    * W02/WEEK02-00-INSTALL.txt
+    * W02/WEEK02-01-VERSION.txt
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
