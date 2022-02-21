@@ -65,7 +65,8 @@
 <br id="idx02">
 ## Week 02
 
-* TBA
+* [Week 02 Assignments #1: Script Download](S02-01.md)
+* [Week 02 Assignments #2: LFS 11.0 Chapter 01-04](S02-01.md)
 
 <br id="idx03">
 ## Week 03+
