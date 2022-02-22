@@ -79,8 +79,14 @@
     * myrank.txt
     * myscript.sh
     * myupdate.txt
+      * OS221W02
     * myW01.tar.bz2.asc
     * myW02.tar.bz2.asc
+      * W02/WEEK02-00-INSTALL.txt
+      * W02/WEEK02-01-VERSION.txt
+      * W02/WEEK02-02-LFS11-ALL-in-ONE.txt
+      * W02/WEEK02-03-Extract-TARBALL.txt
+      * W02/WEEK02-97-LFS-REPORT.txt
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
