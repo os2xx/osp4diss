@@ -121,6 +121,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [X11 for Windows 10](osp-003.md)
 * [How To Shrink and Clean the VirtualBox VDI File](https://lfs.vlsm.org/LFS-02-5.html)
 * [TOP (was Table Of Processes)](osp-101.md)
+* [GNUPG: How to symmetrically encrypt and decrypt a file](osp-121.md)
 * [Making and encrypting a tarball](osp-001.md)
 * [FUSE Demo](osp-100.md)
 * [FUSE Links](osp-120.md)
