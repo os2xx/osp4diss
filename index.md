@@ -22,9 +22,10 @@ The following is a step-by-step guide to set up a Virtual Debian Guest on Virtua
 * [Running a VirtualBox Debian Guest](#idx03)
 * [Dress Up Your Virtual Guest](#idx04)
 * [PULL from / PUSH to GitHub](#idx05)
+* Weekly Assignments
+  * [Operating Systems](AOS.md)
+  * [System Programming](ASP.md)
 * [More Links](#idx06)
-* [Operating Systems&nbsp; Weekly Assignments](AOS.md)
-* [System Programming Weekly Assignments](ASP.md)
 
 <br id="idx00b">
 # VirtualBox Guest Preparation
