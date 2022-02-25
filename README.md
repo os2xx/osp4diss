@@ -24,8 +24,13 @@ Thanks for all help and feedback.
 <br>
 # Contact
 
-* rms46 <@T> ui dot ac dit id
+```
 
+rms46 <@T> ui DOT ac DOT id
+
+```
+
+<br>
 ### This is the way!
 
 
