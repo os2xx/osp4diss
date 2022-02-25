@@ -21,7 +21,12 @@ Thanks for all help and feedback.
 * Rafi Muhammad Daffa
 * Ramot Stephanus
 
-Again, Tararengkyu!
+<br>
+# Contact
+
+* rms46 <@T> ui dot ac dit id
+
+### This is the way!
 
 
 <br id="endofpage"><br>
