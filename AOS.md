@@ -71,7 +71,7 @@
 
 * [Week 03 Assignments #1: Readings and Demos](W03-01.md)
 * [Week 03 Assignments #2: Add/Create An Extra Virtual Disk](W03-02.md)
-* [Week 03 Assignments #3: Finishing](W03-03.md)
+* [Week 03 Assignments #3: Finishing](W03-09.md)
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
