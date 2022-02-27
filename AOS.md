@@ -14,9 +14,10 @@
 * [Week 00](#idx00) -- Deadline: 14-Feb-2022.
 * [Week 01](#idx01) -- Deadline: 21-Feb-2022.
 * [Week 02](#idx02) -- Deadline: 28-Feb-2022.
+* [Week 03](#idx03) -- Deadline: 09-Mar-2022.
 
 <br id="idx00">
-## Week 00
+## Week 00 (Deadline: 14-Feb-2022)
 
 * [Week 00 Assignments #1: GitHub Account](W00-01.md)
 * [Week 00 Assignments #2: "TXT/mylog.txt"](W00-02.md)
@@ -25,7 +26,7 @@
 * [Week 00 Assignments #5: Reading Assignment](W00-05.md)
 
 <br id="idx01">
-## Week 01
+## Week 01 (Deadline: 21-Feb-2022)
 
 * [Week 01 Assignments #1: Setup a VirtualBox Debian Guest](W01-01.md)
 * [Week 01 Assignments #2: The ATM Way: GSGS and Read](W01-02.md)
@@ -42,7 +43,7 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx02">
-## Week 02
+## Week 02 (Deadline: 28-Feb-2022)
 
 * [Week 02 Assignments #1: Readings, Watchings, and Demos](W02-01.md)
 * [Week 02 Assignments #2: GnuPG](W02-02.md)
@@ -66,7 +67,13 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx03">
-## Week 03+
+## Week 03 (Deadline: 09-Mar-2022)
+
+* [Week 03 Assignments #1: Readings and Demos](W03-01.md)
+* [Week 03 Assignments #2: ](W03-02.md)
+
+<br id="idx04">
+## Week 04+
 
 * TBA
 
