@@ -70,7 +70,7 @@
 ## Week 03 (Deadline: 09-Mar-2022)
 
 * [Week 03 Assignments #1: Readings and Demos](W03-01.md)
-* [Week 03 Assignments #2: ](W03-02.md)
+* [Week 03 Assignments #2: Add/Create An Extra Virtual Disk](W03-02.md)
 
 <br id="idx04">
 ## Week 04+
