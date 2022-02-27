@@ -71,6 +71,22 @@
 
 * [Week 03 Assignments #1: Readings and Demos](W03-01.md)
 * [Week 03 Assignments #2: Add/Create An Extra Virtual Disk](W03-02.md)
+* [Week 03 Assignments #3: Finishing](W03-03.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+  * myupdate.txt
+    * OS221W03
+  * myW03.tar.bz2.asc
+    * W03/WEEK03-00-INSTALL.txt
+    * W03/WEEK03-01-VERSION.txt
+    * W03/WEEK03-02-DISK-CHECK.txt
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx04">
 ## Week 04+
