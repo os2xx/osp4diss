@@ -102,6 +102,28 @@
 * [Week 03 Assignments #1: Readings](S03-01.md)
 * [Week 03 Assignments #2: FUSE](S03-02.md)
 * [Week 03 Assignments #3: Script Download](S03-03.md)
+* Finishing:
+  * Update script "myscript.txt":
+    * See also [here](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
+  * Put string "SP221W03" (WEEK 03) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt
+      * SP221W03
+    * myW01.tar.bz2.asc
+    * myW02.tar.bz2.asc
+    * myW03.tar.bz2.asc
+      * W03/WEEK03-00-INSTALL.txt
+      * W03/WEEK03-01-VERSION.txt
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 
 <br id="endofpage"><br>
@@ -109,7 +131,6 @@
 ## Week 04+
 
 * TBA
-
 
 <br id="endofpage"><br>
 [HOME](index.md)
