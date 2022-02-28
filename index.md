@@ -125,6 +125,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [GNUPG: How to symmetrically encrypt and decrypt a file](osp-121.md)
 * [Making and encrypting a tarball](osp-001.md)
 * [FUSE Demo and Links](osp-120.md)
+* [Long Options with getopt_long()](osp-122.md)
 * [Kleopatra (Windows 10)](CBKadal3.md)
 
 <br>
