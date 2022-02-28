@@ -126,6 +126,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [Making and encrypting a tarball](osp-001.md)
 * [FUSE Demo and Links](osp-120.md)
 * [Long Options with getopt_long()](osp-122.md)
+* [autoconf example: A Small Hello World](osp-123.md)
 * [Kleopatra (Windows 10)](CBKadal3.md)
 
 <br>
