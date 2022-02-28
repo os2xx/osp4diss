@@ -49,6 +49,7 @@
 * [Week 01 Assignments #3: The Linux Programming Interface](S01-03.md)
 * Finishing:
   * Update script "myscript.txt":
+    * Set WEEK="02"
     * See also [here](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
   * Put string "SP221W01" (WEEK 01) into file "TXT/myupdate.txt"
     * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
@@ -100,6 +101,8 @@
 
 * [Week 03 Assignments #1: Readings](S03-01.md)
 * [Week 03 Assignments #2: FUSE](S03-02.md)
+* [Week 03 Assignments #3: Script Download](S03-03.md)
+
 
 <br id="endofpage"><br>
 <br id="idx04">
