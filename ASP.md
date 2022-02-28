@@ -14,6 +14,8 @@
 * [Week 00](#idx00) -- Deadline: 14-Feb-2022.
 * [Week 01](#idx01) -- Deadline: 21-Feb-2022.
 * [Week 02](#idx02) -- Deadline: 28-Feb-2022.
+* [Week 03](#idx03) -- Deadline: 09-Mar-2022.
+
 
 <br id="idx00">
 ## Week 00
@@ -48,7 +50,7 @@
 * Finishing:
   * Update script "myscript.txt":
     * See also [here](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
-  * Put string "OS221W01" (WEEK 01) into file "TXT/myupdate.txt"
+  * Put string "SP221W01" (WEEK 01) into file "TXT/myupdate.txt"
     * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
   * Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
     * mylog.txt
@@ -71,7 +73,7 @@
 * Finishing:
   * Update script "myscript.txt":
     * See also [here](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
-  * Put string "OS221W02" (WEEK 02) into file "TXT/myupdate.txt"
+  * Put string "SP221W02" (WEEK 02) into file "TXT/myupdate.txt"
     * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
   * Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
     * mylog.txt
@@ -79,7 +81,7 @@
     * myrank.txt
     * myscript.sh
     * myupdate.txt
-      * OS221W02
+      * SP221W02
     * myW01.tar.bz2.asc
     * myW02.tar.bz2.asc
       * W02/WEEK02-00-INSTALL.txt
@@ -94,9 +96,17 @@
     * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx03">
-## Week 03+
+## Week 03
+
+* [Week 03 Assignments #1: Readings](S03-01.md)
+* [Week 03 Assignments #2: FUSE](S03-02.md)
+
+<br id="endofpage"><br>
+<br id="idx04">
+## Week 04+
 
 * TBA
+
 
 <br id="endofpage"><br>
 [HOME](index.md)
