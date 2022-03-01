@@ -56,6 +56,7 @@
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
+    * set WEEK="02"
   * myupdate.txt
     * OS221W02
   * myW02.tar.bz2.asc
@@ -77,6 +78,7 @@
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
+    * set WEEK="03"
   * myupdate.txt
     * OS221W03
   * myW03.tar.bz2.asc
