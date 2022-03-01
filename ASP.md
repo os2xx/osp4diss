@@ -73,6 +73,7 @@
 * [Week 02 Assignments #3: LFS 11.0 Chapter 05-07](S02-03.md)
 * Finishing:
   * Update script "myscript.txt":
+    * WEEK="02"
     * See also [here](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
   * Put string "SP221W02" (WEEK 02) into file "TXT/myupdate.txt"
     * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
@@ -104,6 +105,7 @@
 * [Week 03 Assignments #3: Script Download](S03-03.md)
 * Finishing:
   * Update script "myscript.txt":
+    * WEEK="03"
     * See also [here](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
   * Put string "SP221W03" (WEEK 03) into file "TXT/myupdate.txt"
     * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
