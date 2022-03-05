@@ -127,6 +127,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [FUSE Demo and Links](osp-120.md)
 * [Long Options with getopt_long()](osp-122.md)
 * [autoconf example: A Small Hello World](osp-123.md)
+* [Kernotex's Linux From Scratch (LFS) 11.1 Highlights](osp-124.md)
 * [Kleopatra (Windows 10)](CBKadal3.md)
 
 <br>
