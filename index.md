@@ -115,20 +115,20 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [EXPORT](#idx01) your Virtual Guest to an OVA file. Estimated OVA size 645 MB.
 
 <br id="idx06">
-# More
+# More Links
 
-* [Log Codes](ETC/logCodes.txt)
-* [OS Public Key](ETC/rmspubkey.txt)
-* [X11 for Windows 10](osp-003.md)
-* [How To Shrink and Clean the VirtualBox VDI File](https://lfs.vlsm.org/LFS-02-5.html)
-* [TOP (was Table Of Processes)](osp-101.md)
+* [C-lib: Long Options with getopt_long()](osp-122.md)
+* [GNU autoconf example: A Small Hello World](osp-123.md)
 * [GNUPG: How to symmetrically encrypt and decrypt a file](osp-121.md)
-* [Making and encrypting a tarball](osp-001.md)
+* [GNUPG: Kleopatra (Windows 10)](CBKadal3.md)
 * [FUSE Demo and Links](osp-120.md)
-* [Long Options with getopt_long()](osp-122.md)
-* [autoconf example: A Small Hello World](osp-123.md)
-* [Kernotex's Linux From Scratch (LFS) 11.1 Highlights](osp-124.md)
-* [Kleopatra (Windows 10)](CBKadal3.md)
+* [LFS: Kernotex's Linux From Scratch 11.1 Highlights](osp-124.md)
+* [Linux: Making and encrypting a tarball](osp-001.md)
+* [Linux: TOP (was Table Of Processes)](osp-101.md)
+* [OS Log Codes](ETC/logCodes.txt)
+* [OS/SP Public Key](ETC/rmspubkey.txt)
+* [X11 for Windows 10](osp-003.md)
+* [VirtualBox: How To Shrink and Clean VDI File](https://lfs.vlsm.org/LFS-02-5.html)
 
 <br>
 <hr>
