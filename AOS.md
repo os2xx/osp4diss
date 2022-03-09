@@ -15,6 +15,7 @@
 * [Week 01](#idx01) -- Deadline: 21-Feb-2022.
 * [Week 02](#idx02) -- Deadline: 28-Feb-2022.
 * [Week 03](#idx03) -- Deadline: 09-Mar-2022.
+* [Week 04](#idx04) -- Deadline: 16-Mar-2022.
 
 <br id="idx00">
 ## Week 00 (Deadline: 14-Feb-2022)
@@ -91,7 +92,13 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx04">
-## Week 04+
+## Week 04 (Deadline: 15-Mar-2022)
+
+* [Week 04 Assignments #1: Readings and Demos](W04-01.md)
+* [Week 04 Assignments #2: Compiling The Linux Programming Interface (TLPI)](W04-02.md)
+
+<br id="idx05">
+## Week 05+
 
 * TBA
 
