@@ -16,6 +16,7 @@
 * [Week 02](#idx02) -- Deadline: 28-Feb-2022.
 * [Week 03](#idx03) -- Deadline: 09-Mar-2022.
 * [Week 04](#idx04) -- Deadline: 16-Mar-2022.
+* [Week 05](#idx04) -- Deadline: 23-Mar-2022.
 
 <br id="idx00">
 ## Week 00 -- Deadline: 14-Feb-2022.
@@ -160,9 +161,41 @@
   * Submit (PUSH) your assignments
     * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
-
 <br id="idx05">
-## Week 05+
+## Week 05 -- Deadline: 23-Mar-2022.
+
+* [Week 05 Assignments #1: Readings](S05-01.md)
+* [Week 05 Assignments #2: Script Download](S05-02.md)
+* [Week 05 Assignments #3: FUSE Project Proposall](S05-03.md)
+* Finishing:
+  * Update script "myscript.txt":
+    * WEEK="05"
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
+  * Put string "SP221W04" (WEEK 05) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt
+      * SP221W05
+    * myW01.tar.bz2.asc
+    * myW02.tar.bz2.asc
+    * myW03.tar.bz2.asc
+    * myW04.tar.bz2.asc
+    * myW05.tar.bz2.asc
+      * W05/WEEK05-00-INSTALL.txt
+      * W05/WEEK05-01-VERSION.txt
+      * DRAFT-FUSE.txt
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+
+<br id="idx06">
+## Week 06+ -- Deadline: XX-XXX-2022.
 
 * TBA
 
