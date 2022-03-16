@@ -116,13 +116,33 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx05">
-## Week 05
+## Week 05 (Deadline: 23-Mar-2022)
 
-* [XXX](W05-tmp01.md)
-* [XXX](W05-tmp02.md)
+* [Week 05 Assignment #1: Readings and Demos](W05-01.md)
+* [Week 05 Assignment #2: How Low (Memory) Can You Go?](W05-tmp02.md)
+* [Week 05 Assignment #3: Script Download (User Mode)](W05-03.md)
+* [Week 05 Assignment #4: Memory](W05-04.md)
+* [Week 05 Assignment #4: Finishing](W05-05.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+    * set WEEK="05"
+  * myupdate.txt
+    * OS221W05
+  * myW05.tar.bz2.asc
+    * W05/WEEK05-00-INSTALL.txt
+    * W05/WEEK05-01-VERSION.txt
+    * W05/WEEK05-04-openTARBALL.txt
+    * W05/WEEK05-05-RUN.txt
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx06">
-## Week 06+
+## Week 06+ (Deadline: XX-XXX-2022)
 
 * TBA
 
