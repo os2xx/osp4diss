@@ -7,8 +7,8 @@
 [GITHUB](https://github.com/os2xx/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md#idx06)
-[NEXT](index.md#idx06)
+[PREV](index.md)
+[NEXT](index.md)
 
 # TBA
 
@@ -20,7 +20,7 @@
 [GITHUB](https://github.com/os2xx/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md#idx06)
-[NEXT](index.md#idx06)
+[PREV](index.md)
+[NEXT](index.md)
 <br>
 

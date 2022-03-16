@@ -19,6 +19,7 @@ The following is a step-by-step guide to set up a Virtual Debian Guest on Virtua
 * [VirtualBox Guest Preparation](#idx00b)
 * [Import/Rename/Export/Delete a Virtual Guest](#idx01)
 * [Installing a VirtualBox Debian Guest (ISO File)](#idx02)
+* [<span style="color:red;font-weight:bold;">Troubleshooting</span>](#idx02a)
 * [Running a VirtualBox Debian Guest](#idx03)
 * [Dress Up Your Virtual Guest](#idx04)
 * [PULL from / PUSH to GitHub](#idx05)
@@ -66,11 +67,15 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [Downloading Debian ISO Image](DebianISOImage.md)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
 * [EXPORTing OVA](DebianGuestExportOva4.md) -- e.g. DEB11-02.ova
-* <span style="color:red;font-weight:bold;">Troubleshooting</span>
-  * [DNS Failure](osp-117.md)
-  * [Simple Windows Troubleshooting Tools](https://rahmatm.samik-ibrahim.vlsm.org/2021/10/four-simple-windows-troubleshooting.html)
-  * [Windows 10: SFC and DISM mantras](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/windows-10-sfc-and-dism-mantras.html)
-  * [Intel based MacBook](https://fxdros.github.io/virtualbox-on-macos/)
+
+<br id="idx02a">
+# <span style="color:red;font-weight:bold;">Troubleshooting</span>
+* [DNS Failure](osp-117.md)
+* [MacBook (Intel based)](https://fxdros.github.io/virtualbox-on-macos/)
+* [Windows 10: SFC and DISM mantras](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/windows-10-sfc-and-dism-mantras.html)
+* [Windows 10: Simple Troubleshooting Tools](https://rahmatm.samik-ibrahim.vlsm.org/2021/10/four-simple-windows-troubleshooting.html)
+* [VirtualBox: SWAP File On Main Filesystem](osp-125.md)
+* [VirtualBox: To Shrink and Clean the VDI Files](osp-126.md)
 
 <br id="idx03">
 # Running a VirtualBox Debian Guest
