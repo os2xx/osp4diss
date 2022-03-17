@@ -16,7 +16,7 @@
 * [Week 02](#idx02) -- Deadline: 28-Feb-2022.
 * [Week 03](#idx03) -- Deadline: 09-Mar-2022.
 * [Week 04](#idx04) -- Deadline: 16-Mar-2022.
-* [Week 05](#idx04) -- Deadline: 23-Mar-2022.
+* [Week 05](#idx05) -- Deadline: 23-Mar-2022.
 
 <br id="idx00">
 ## Week 00 -- Deadline: 14-Feb-2022.
@@ -188,6 +188,8 @@
       * W05/WEEK05-00-INSTALL.txt
       * W05/WEEK05-01-VERSION.txt
       * DRAFT-FUSE.txt
+      * wweek
+      * wweek-SP221.txt
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
