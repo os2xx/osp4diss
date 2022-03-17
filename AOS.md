@@ -119,7 +119,7 @@
 ## Week 05 (Deadline: 23-Mar-2022)
 
 * [Week 05 Assignment #1: Readings and Demos](W05-01.md)
-* [Week 05 Assignment #2: How Low (Memory) Can You Go?](W05-tmp02.md)
+* [Week 05 Assignment #2: How Low (Memory) Can You Go?](W05-02.md)
 * [Week 05 Assignment #3: Script Download (User Mode)](W05-03.md)
 * [Week 05 Assignment #4: Memory](W05-04.md)
 * [Week 05 Assignment #4: Finishing](W05-05.md)
