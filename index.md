@@ -129,7 +129,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [GNUPG: How to symmetrically encrypt and decrypt a file](osp-121.md)
 * [GNUPG: Kleopatra (Windows 10)](CBKadal3.md)
 * [FUSE Demo and Links](osp-120.md)
-* [LFS: Kernotex's Linux From Scratch 11.1 Highlights](osp-124.md)
+* [Linux From Scratch: KERNOTeX's LFS 11.1 Highlights](osp-124.md)
 * [Linux: Making and encrypting a tarball](osp-001.md)
 * [Linux: TOP (was Table Of Processes)](osp-101.md)
 * [OS Log Codes](ETC/logCodes.txt)
