@@ -123,6 +123,8 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 # More Links
 
 * [C-lib: Long Options with getopt_long()](osp-122.md)
+* [GitHub Page: A GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.html)
+  * [GitHub Page: Template](https://template.vlsm.org/)
 * [GNU autoconf example: A Small Hello World](osp-123.md)
 * [GNUPG: How to symmetrically encrypt and decrypt a file](osp-121.md)
 * [GNUPG: Kleopatra (Windows 10)](CBKadal3.md)
@@ -132,8 +134,10 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [Linux: TOP (was Table Of Processes)](osp-101.md)
 * [OS Log Codes](ETC/logCodes.txt)
 * [OS/SP Public Key](ETC/rmspubkey.txt)
+* [VirtualBox: How To compile Linux Kernel](https://doit.vlsm.org/007.html)
+* [VirtualBox: How To Shrink and Clean VDI Files](https://lfs.vlsm.org/LFS-02-5.html)
+* [VirtualBox: Installing Jekyll](https://doit.vlsm.org/005.html)
 * [X11 for Windows 10](osp-003.md)
-* [VirtualBox: How To Shrink and Clean VDI File](https://lfs.vlsm.org/LFS-02-5.html)
 
 <br>
 <hr>
