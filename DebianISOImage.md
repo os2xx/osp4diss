@@ -12,7 +12,7 @@
 
 # Downloading Debian Netinst with Free Download Manager
 
-## NOTE: The current Debian image version is <span style="color:red; font-weight:bold; font-size:larger;">11.2.0</span>
+## NOTE: The current Debian image version is <span style="color:red; font-weight:bold; font-size:larger;">11.3.0</span>
 ### THIS IS SUBJECT TO CHANGE! (The image version in this example is <span style="color:red; font-weight:bold; font-size:larger;">10.5.0</span>)
 
 ## URL: [https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/)
