@@ -17,6 +17,7 @@
 * [Week 03](#idx03) -- Deadline: 09-Mar-2022.
 * [Week 04](#idx04) -- Deadline: 16-Mar-2022.
 * [Week 05](#idx05) -- Deadline: 23-Mar-2022.
+* [Week 06](#idx05) -- Deadline: 18-Apr-2022.
 
 <br id="idx00">
 ## Week 00 (Deadline: 14-Feb-2022)
@@ -142,7 +143,30 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx06">
-## Week 06+ (Deadline: XX-XXX-2022)
+## Week 06+ (Deadline: 18-Apr-2022)
+
+* [Week 06 Assignment #1: Readings and Demos](W06-01.md)
+* [Week 06 Assignment #2: Script Download (User Mode)](W06-02.md)
+* [Week 06 Assignment #3: Fork and Shared Memory](W06-03.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+    * set WEEK="06"
+  * myupdate.txt
+    * OS221W06
+  * myW06.tar.bz2.asc
+    * W06/WEEK06-00-INSTALL.txt
+    * W06/WEEK06-01-VERSION.txt
+    * W06/WEEK06-06-RUN.txt
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+
+<br id="idx07">
+## Week 07+ (Deadline: XX-XXX-2022)
 
 * TBA
 
