@@ -172,7 +172,7 @@
   * Update script "myscript.txt":
     * WEEK="05"
     * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
-  * Put string "SP221W04" (WEEK 05) into file "TXT/myupdate.txt"
+  * Put string "SP221W05" (WEEK 05) into file "TXT/myupdate.txt"
     * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
   * Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
     * mylog.txt
@@ -203,6 +203,45 @@
 * [Week 06 Assignments #1: Readings](S06-01.md)
 * [Week 06 Assignments #2: Script Download](S06-02.md)
 * [Week 06 Assignments #3: File Systems and Devices](S06-03.md)
+* Finishing:
+  * Update script "myscript.txt":
+    * WEEK="06"
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
+  * Put string "SP221W06" (WEEK 06) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt
+      * SP221W06
+    * myW01.tar.bz2.asc
+    * myW02.tar.bz2.asc
+    * myW03.tar.bz2.asc
+    * myW04.tar.bz2.asc
+    * myW05.tar.bz2.asc
+    * myW06.tar.bz2.asc
+      * W06/WEEK06-00-INSTALL.txt
+      * W06/WEEK06-01-VERSION.txt
+      * W06/WEEK06devSDC.xz
+      * W06/WEEK06-QUIZ-01-WHOAMI.txt
+      * W06/WEEK06-QUIZ-02-FDISK.txt
+      * W06/WEEK06-QUIZ-03-BLKID.txt
+      * W06/WEEK06-QUIZ-04-LSMNT.txt
+      * W06/WEEK06-QUIZ-05-LSMNT.txt
+      * W06/WEEK06-QUIZ-06-LSMNT.txt
+      * W06/WEEK06-QUIZ-07-WHOAMI.txt
+      * W06/WEEK06-QUIZ-08-LSUSER.txt
+      * W06/WEEK06-QUIZ-09-LOOPDEV.txt
+      * W06/WEEK06-QUIZ-10-MOUNT.txt
+      * W06/WEEK06-QUIZ-11-LSMNT.txt
+      * W06/WEEK06-QUIZ-12-UMOUNT.txt
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 
 <br id="idx07">
