@@ -169,7 +169,7 @@
 <br id="idx07">
 ## Week 07 (Deadline: 25-Apr-2022)
 
-* TBA
+* [Week 07 Assignment #1: Readings and Demos](W07-01.md)
 
 <br id="idx08">
 ## Week 08+ (Deadline: XX-XXX-2022)
