@@ -147,7 +147,7 @@
 ## Week 06 (Deadline: 18-Apr-2022)
 
 * [Week 06 Assignment #1: Readings and Demos](W06-01.md)
-* [Week 06 Assignment #2: Script Download (User Mode)](W06-02.md)
+* [Week 06 Assignment #2: Script Download](W06-02.md)
 * [Week 06 Assignment #3: Fork and Shared Memory](W06-03.md)
 * Recheck folder "TXT/":
   * mylog.txt
@@ -170,6 +170,26 @@
 ## Week 07 (Deadline: 25-Apr-2022)
 
 * [Week 07 Assignment #1: Readings and Demos](W07-01.md)
+* [Week 07 Assignment #2: Script Download](W07-02.md)
+* [Week 07 Assignment #3: Synchronization](W07-03.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+    * set WEEK="07"
+  * myupdate.txt
+    * OS221W07
+  * myW07.tar.bz2.asc
+    * W07/WEEK07-00-INSTALL.txt
+    * W07/WEEK07-01-VERSION.txt
+    * W07/WEEK07-07-RUN.txt
+    * W07/WEEK07-MYSHARE.bin
+    * W07/WEEK07-REPORT2.txt
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx08">
 ## Week 08+ (Deadline: XX-XXX-2022)
