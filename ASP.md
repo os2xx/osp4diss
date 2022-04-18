@@ -273,6 +273,7 @@
     * myW07.tar.bz2.asc
       * W07/WEEK07-00-INSTALL.txt
       * W07/WEEK07-01-VERSION.txt
+      * W07/WEEK07-KERNEL-LOG.txt
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
