@@ -197,17 +197,68 @@
 <br id="idx08">
 ## Week 08 (Deadline: 09-May-2022)
 
-* TBA
+* [Week 08 Assignment #1: Readings and Demos](W08-01.md)
+* [Week 08 Assignment #2: Script Download](W08-02.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+    * set WEEK="08"
+  * myupdate.txt
+    * OS221W08
+  * myW08.tar.bz2.asc
+    * W08/WEEK08-00-INSTALL.txt
+    * W08/WEEK08-01-VERSION.txt
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+
 
 <br id="idx09">
 ## Week 09 (Deadline: 16-May-2022)
 
-* TBA
+* [Week 09 Assignment #1: Readings and Demos](W09-01.md)
+* [Week 09 Assignment #2: Script Download](W09-02.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+    * set WEEK="09"
+  * myupdate.txt
+    * OS221W09
+  * myW08.tar.bz2.asc
+    * W09/WEEK09-00-INSTALL.txt
+    * W09/WEEK09-01-VERSION.txt
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+
 
 <br id="idx10">
 ## Week 10 (Deadline: 23-May-2022)
 
-* TBA
+* [Week 10 Assignment #1: Readings and Demos](W10-01.md)
+* [Week 10 Assignment #2: Script Download](W10-02.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+    * set WEEK="10"
+  * myupdate.txt
+    * OS221W10
+  * myW08.tar.bz2.asc
+    * W10/WEEK10-00-INSTALL.txt
+    * W10/WEEK10-01-VERSION.txt
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+
 
 <br id="endofpage"><br>
 [HOME](index.md)
