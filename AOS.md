@@ -199,6 +199,7 @@
 
 * [Week 08 Assignment #1: Readings and Demos](W08-01.md)
 * [Week 08 Assignment #2: Script Download](W08-02.md)
+* [Week 08 Assignment #3: Linux From Scratch Ch. 1-5](W08-03.md)
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
