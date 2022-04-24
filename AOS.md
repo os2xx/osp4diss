@@ -211,6 +211,7 @@
   * myW08.tar.bz2.asc
     * W08/WEEK08-00-INSTALL.txt
     * W08/WEEK08-01-VERSION.txt
+    * W08/WEEK08-08-LFS.txt
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
