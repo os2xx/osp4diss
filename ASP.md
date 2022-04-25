@@ -19,6 +19,9 @@
 * [Week 05](#idx05) -- Deadline: 23-Mar-2022.
 * [Week 06](#idx06) -- Deadline: 18-Apr-2022.
 * [Week 07](#idx07) -- Deadline: 25-Apr-2022.
+* [Week 08](#idx08) -- Deadline: 09-May-2022.
+* [Week 09](#idx09) -- Deadline: 16-May-2022.
+* [Week 10](#idx10) -- Deadline: 23-May-2022.
 
 <br id="idx00">
 ## Week 00 -- Deadline: 14-Feb-2022.
@@ -279,9 +282,111 @@
   * Always update SHA256SUM/SHA256SUM.asc after changes.
 
 <br id="idx08">
-## Week 08+ -- Deadline: XX-XXX-2022.
+## Week 08 -- Deadline: 09-May-2022.
 
-* TBA
+* [Week 08 Assignments #1: Readings](S08-01.md)
+* [Week 08 Assignments #2: Script Download](S08-02.md)
+* [Week 08 Assignments #3: Kernel Modules](S08-03.md)
+* Finishing:
+  * Update script "myscript.txt":
+    * WEEK="08"
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
+  * Put string "SP221W08" (WEEK 08) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt
+      * SP221W08
+    * myW01.tar.bz2.asc
+    * myW02.tar.bz2.asc
+    * myW03.tar.bz2.asc
+    * myW04.tar.bz2.asc
+    * myW05.tar.bz2.asc
+    * myW06.tar.bz2.asc
+    * myW07.tar.bz2.asc
+    * myW08.tar.bz2.asc
+      * W08/WEEK08-00-INSTALL.txt
+      * W08/WEEK08-01-VERSION.txt
+      * W08/WEEK08-KERNEL-LOG.txt
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+
+
+<br id="idx09">
+## Week 09 -- Deadline: 16-May-2022.
+
+* [Week 09 Assignments #1: Readings](S09-01.md)
+* [Week 09 Assignments #2: Script Download](S09-02.md)
+* [Week 09 Assignments #3: Kernel Modules](S09-03.md)
+* Finishing:
+  * Update script "myscript.txt":
+    * WEEK="09"
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
+  * Put string "SP221W09" (WEEK 09) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt
+      * SP221W09
+    * myW01.tar.bz2.asc
+    * myW02.tar.bz2.asc
+    * myW03.tar.bz2.asc
+    * myW04.tar.bz2.asc
+    * myW05.tar.bz2.asc
+    * myW06.tar.bz2.asc
+    * myW07.tar.bz2.asc
+    * myW08.tar.bz2.asc
+    * myW09.tar.bz2.asc
+      * W09/WEEK09-00-INSTALL.txt
+      * W09/WEEK09-01-VERSION.txt
+      * W09/WEEK09-KERNEL-LOG.txt
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+
+
+<br id="idx10">
+## Week 10 -- Deadline: 23-May-2022.
+
+* [Week 10 Assignments #1: Readings](S10-01.md)
+* [Week 10 Assignments #2: Script Download](S10-02.md)
+* [Week 10 Assignments #3: Kernel Modules](S10-03.md)
+* Finishing:
+  * Update script "myscript.txt":
+    * WEEK="10"
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp221/TXT/myscript.sh>
+  * Put string "SP221W10" (WEEK 10) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp221/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp221/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt
+      * SP221W10
+    * myW01.tar.bz2.asc
+    * myW02.tar.bz2.asc
+    * myW03.tar.bz2.asc
+    * myW04.tar.bz2.asc
+    * myW05.tar.bz2.asc
+    * myW06.tar.bz2.asc
+    * myW07.tar.bz2.asc
+    * myW08.tar.bz2.asc
+    * myW09.tar.bz2.asc
+    * myW10.tar.bz2.asc
+      * W10/WEEK10-00-INSTALL.txt
+      * W10/WEEK10-01-VERSION.txt
+      * W10/WEEK10-KERNEL-LOG.txt
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
 
 <br id="endofpage"><br>
 [HOME](index.md)
