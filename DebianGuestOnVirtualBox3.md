@@ -23,7 +23,7 @@
 
 <img src="pictures/OS21-015.jpg"  width="960">
 
-<br>
+<br id="idx02">
 ## System: Processors (2)
 
 * How many cores are available?
@@ -31,7 +31,7 @@
 
 <img src="pictures/OS21-016.jpg"  width="960">
 
-<br>
+<br id="idx03">
 ## System: Acceleration
 
 <img src="pictures/OS21-017.jpg"  width="960">
