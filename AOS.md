@@ -223,6 +223,7 @@
 
 * [Week 09 Assignment #1: Readings and Demos](W09-01.md)
 * [Week 09 Assignment #2: Script Download](W09-02.md)
+* [Week 09 Assignment #3: Linux From Scratch Ch. 6-7](W09-03.md)
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
@@ -238,7 +239,6 @@
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
-
 
 <br id="idx10">
 ## Week 10 (Deadline: 23-May-2022)
