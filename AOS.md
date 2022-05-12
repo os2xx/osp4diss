@@ -232,7 +232,7 @@
     * set WEEK="09"
   * myupdate.txt
     * OS221W09
-  * myW08.tar.bz2.asc
+  * myW09.tar.bz2.asc
     * W09/WEEK09-00-INSTALL.txt
     * W09/WEEK09-01-VERSION.txt
   * SHA256SUM
@@ -253,7 +253,7 @@
     * set WEEK="10"
   * myupdate.txt
     * OS221W10
-  * myW08.tar.bz2.asc
+  * myW10.tar.bz2.asc
     * W10/WEEK10-00-INSTALL.txt
     * W10/WEEK10-01-VERSION.txt
   * SHA256SUM
