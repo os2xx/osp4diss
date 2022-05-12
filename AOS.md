@@ -235,6 +235,7 @@
   * myW09.tar.bz2.asc
     * W09/WEEK09-00-INSTALL.txt
     * W09/WEEK09-01-VERSION.txt
+    * W09/WEEK09-09-LFS.txt
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
