@@ -246,6 +246,7 @@
 
 * [Week 10 Assignment #1: Readings and Demos](W10-01.md)
 * [Week 10 Assignment #2: Script Download](W10-02.md)
+* [Week 10 Assignment #3: Linux From Scratch Ch. 8](W10-03.md)
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
@@ -257,6 +258,7 @@
   * myW10.tar.bz2.asc
     * W10/WEEK10-00-INSTALL.txt
     * W10/WEEK10-01-VERSION.txt
+    * W10/WEEK10-10-LFS.txt
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
