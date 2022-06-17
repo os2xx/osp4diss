@@ -8,14 +8,8 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 
-<br id="idx00"><br>
-Welcome to the Operating System Programming for DISS site.
-The following is a step-by-step guide to set up a Virtual Debian Guest on VirtualBox.
-
-<br id="idx00a">
 # Table of Contents
 
-* [Introduction](#idx00)
 * [VirtualBox Guest Preparation](#idx00b)
 * [Import/Rename/Export/Delete a Virtual Guest](#idx01)
 * [Installing a VirtualBox Debian Guest (ISO File)](#idx02)
@@ -28,6 +22,7 @@ The following is a step-by-step guide to set up a Virtual Debian Guest on Virtua
   * [System Programming](ASP.md)
 * [More Links](#idx06)
 
+<hr>
 <br id="idx00b">
 # VirtualBox Guest Preparation
 
