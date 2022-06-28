@@ -86,7 +86,9 @@ There are too many "GNU/Linux" sites around, do your own GSGS!
 <br>
 ## More...
 
-* [More: Links about Operating Systems](osp-115.md)
+* More:
+  * [From Students for Students](osp-127.md)
+  * [Links about Operating Systems](osp-115.md)
 
 
 <br id="endofpage"><br>
