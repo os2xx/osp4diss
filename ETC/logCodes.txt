@@ -1,4 +1,4 @@
-# REV07: Tue 28 Jun 2022 13:00
+# REV07: Tue 28 Jun 2022 14:00
 # REV06: Wed 07 Jul 2021 20:00
 # REV04: Sun 21 Feb 2021 11:00
 # REV03: Thu 24 Sep 2020 11:00
@@ -15,10 +15,10 @@
 L00 General, etc.
 L01 SCELE/Discord related
 L02 ZOOM meetings related
-L03 GitHub related
+L03 GitHub and git related, including commit, push, pull
 L04 GitHub Pages related
-L05 Quiz related
-L06 References/Books/Documents/GSGS related
+L05 Taking Quiz related
+L06 References/Books/Documents/Browsing/GSGS related
 L07 Demo related
 L08 AsDos: asking, etc.
 L09 Assignment in General
@@ -34,24 +34,31 @@ L18 Assignment #08
 L19 Assignment #09
 L20 Assignment #10
 L21 Trying something
-L22 Quiz
+L22 Study for Quiz. See also L05.
 L23 Linux CLI including tar, etc.
 L24 Bash, Regex, SED, AWK.
-L25 Scripting
-L26 C-language
+L25 Scripting in general.
+L26 C-language including Make.
 L27 GnuPG, key-gen, encrypt/decrypt.
 L28 SSH, key-gen, tunneling, putty, winscp
 L29 Jekyll, including Ruby.
 L30 Udacity: study, etc.
 L31 VirtualBox: install GNU/Linux, etc.
-L32 YouTube: study, etc.
+L32 YouTube: watching OS related topics, etc.
+L33 Podcast incl. Spotify: listening OS related topics, etc.
+L40 TXT/ related (general).
+L41 TXT/mylog.txt related.
+L42 TXT/mypubkey.txt related. See also L27.
+L43 TXT/myrank.tex related, including peer review.
+L44 TXT/myscript.sh related. See also L25, L24.
+L45 TXT/SHA256SUM related
 L60 Reinstall/Restore/Backup Computer after crash
 L61 Reinstall/Restore/Backup Virtual Box
 L62 Reinstall/Restore/Backup Virtual Debian Guest
 L63 Fixing Hardware Problems
 L64 Helping OS related problem to a friend.
 L70 Studying for other courses.
-L71 Working  (General)
+L71 Working (General)
 L72 Online Related Job, merchant, etc.
 L73 Gaming
 L80 Waching: Movie, YouTube, TV, etc.
