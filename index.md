@@ -84,7 +84,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [SCP](osp-002-scp.md)
 * The ATM Way, GSGS and Read:
   * [Study some Command Lines, Editor, Regular Expression (regex), and String Processing](Welcome2GNULinux.md)
-  * [From Students To Students 2021 - ...](osp-127.md)
+  * [From Students for Students 2021 - ...](osp-127.md)
   * [More links about Operating Systems](osp-115.md)
 * [EXPORT](#idx01) your Virtual Guest to an OVA file. Estimated OVA size 355 MB.
 
