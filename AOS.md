@@ -11,20 +11,20 @@
 
 # OS Weekly Assignments
 
-* [Week 00](#idx00) -- Deadline: 14-Feb-2022.
-* [Week 01](#idx01) -- Deadline: 21-Feb-2022.
-* [Week 02](#idx02) -- Deadline: 28-Feb-2022.
-* [Week 03](#idx03) -- Deadline: 09-Mar-2022.
-* [Week 04](#idx04) -- Deadline: 16-Mar-2022.
-* [Week 05](#idx05) -- Deadline: 23-Mar-2022.
-* [Week 06](#idx06) -- Deadline: 18-Apr-2022.
-* [Week 07](#idx07) -- Deadline: 25-Apr-2022.
-* [Week 08](#idx08) -- Deadline: 09-May-2022.
-* [Week 09](#idx09) -- Deadline: 16-May-2022.
-* [Week 10](#idx10) -- Deadline: 23-May-2022.
+* [Week 00](#idx00) -- Deadline: tba.
+* [Week 01](#idx01) -- Deadline: tba.
+* [Week 02](#idx02) -- Deadline: tba.
+* [Week 03](#idx03) -- Deadline: tba.
+* [Week 04](#idx04) -- Deadline: tba.
+* [Week 05](#idx05) -- Deadline: tba.
+* [Week 06](#idx06) -- Deadline: tba.
+* [Week 07](#idx07) -- Deadline: tba.
+* [Week 08](#idx08) -- Deadline: tba.
+* [Week 09](#idx09) -- Deadline: tba.
+* [Week 10](#idx10) -- Deadline: tba.
 
 <br id="idx00">
-## Week 00 (Deadline: 14-Feb-2022)
+## Week 00 (Deadline: tba.)
 
 * [Week 00 Assignment #1: GitHub Account](W00-01.md)
 * [Week 00 Assignment #2: "TXT/mylog.txt"](W00-02.md)
@@ -33,7 +33,7 @@
 * [Week 00 Assignment #5: Reading Assignment](W00-05.md)
 
 <br id="idx01">
-## Week 01 (Deadline: 21-Feb-2022)
+## Week 01 (Deadline: tba.)
 
 * [Week 01 Assignment #1: Setup a VirtualBox Debian Guest](W01-01.md)
 * [Week 01 Assignment #2: The ATM Way: GSGS and Read](W01-02.md)
@@ -50,7 +50,7 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx02">
-## Week 02 (Deadline: 28-Feb-2022)
+## Week 02 (Deadline: tba.)
 
 * [Week 02 Assignment #1: Readings, Watchings, and Demos](W02-01.md)
 * [Week 02 Assignment #2: GnuPG](W02-02.md)
@@ -75,7 +75,7 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx03">
-## Week 03 (Deadline: 09-Mar-2022)
+## Week 03 (Deadline: tba.)
 
 * [Week 03 Assignment #1: Readings and Demos](W03-01.md)
 * [Week 03 Assignment #2: Add/Create An Extra Virtual Disk](W03-02.md)
@@ -98,7 +98,7 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx04">
-## Week 04 (Deadline: 16-Mar-2022)
+## Week 04 (Deadline: tba.)
 
 * [Week 04 Assignment #1: Readings and Demos](W04-01.md)
 * [Week 04 Assignment #2: Compiling The Linux Programming Interface (TLPI)](W04-02.md)
@@ -121,7 +121,7 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx05">
-## Week 05 (Deadline: 23-Mar-2022)
+## Week 05 (Deadline: tba.)
 
 * [Week 05 Assignment #1: Readings and Demos](W05-01.md)
 * [Week 05 Assignment #2: How Low (Memory) Can You Go?](W05-02.md)
@@ -147,7 +147,7 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx06">
-## Week 06 (Deadline: 18-Apr-2022)
+## Week 06 (Deadline: tba.)
 
 * [Week 06 Assignment #1: Readings and Demos](W06-01.md)
 * [Week 06 Assignment #2: Script Download](W06-02.md)
@@ -170,7 +170,7 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx07">
-## Week 07 (Deadline: 25-Apr-2022)
+## Week 07 (Deadline: tba.)
 
 * [Week 07 Assignment #1: Readings and Demos](W07-01.md)
 * [Week 07 Assignment #2: Script Download](W07-02.md)
@@ -195,7 +195,7 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx08">
-## Week 08 (Deadline: 09-May-2022)
+## Week 08 (Deadline: tba.)
 
 * [Week 08 Assignment #1: Readings and Demos](W08-01.md)
 * [Week 08 Assignment #2: Script Download](W08-02.md)
@@ -219,7 +219,7 @@
 
 
 <br id="idx09">
-## Week 09 (Deadline: 16-May-2022)
+## Week 09 (Deadline: tba.)
 
 * [Week 09 Assignment #1: Readings and Demos](W09-01.md)
 * [Week 09 Assignment #2: Script Download](W09-02.md)
@@ -242,7 +242,7 @@
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 
 <br id="idx10">
-## Week 10 (Deadline: 23-May-2022)
+## Week 10 (Deadline: tba.)
 
 * [Week 10 Assignment #1: Readings and Demos](W10-01.md)
 * [Week 10 Assignment #2: Script Download](W10-02.md)
