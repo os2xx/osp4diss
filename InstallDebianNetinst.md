@@ -17,6 +17,8 @@
 
 * You should adjust these following according to your own belief and faith.
   * Hostname: cbkadal
+    * Use your GitHub account as hostname.
+      <span style="color:red; font-weight:bold; font-size:larger;">Do not use cbkadal</span>
   * Domain: none
   * Root/Pass: root/cbkadal
   * UserName/Account/Pass: Cicak Bin Kadal/cbkadal/cbkadal
@@ -121,7 +123,9 @@
 <br>
 ### Configure The Network
 
-* Hostname: cbkadal
+* Hostname: cbkadal (e.g.)
+  * Use your GitHub account as hostname.
+    <span style="color:red; font-weight:bold; font-size:larger;">Do not use cbkadal</span>
 
 <img src="pictures/OS21-055.jpg"  width="960">
 
@@ -146,6 +150,8 @@
 <img src="pictures/OS21-058.jpg"  width="960">
 
 * Username For Your Account: cbkadal (e.g.)
+  * Use your GitHub account as username.
+      <span style="color:red; font-weight:bold; font-size:larger;">Do not use cbkadal</span>
 
 <img src="pictures/OS21-059.jpg"  width="960">
 
@@ -398,9 +404,13 @@
 <img src="pictures/OS21-114.jpg"  width="960">
 
 <br>
-### Login 
+### Login Test
+
+* Login Test as <span style="color:red; font-weight:bold; font-size:larger;">root</span>
 
 <img src="pictures/OS21-115.jpg"  width="960">
+
+* (root)
 
 ```
 apt-get update
