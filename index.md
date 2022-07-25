@@ -67,6 +67,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 # <span style="color:red;font-weight:bold;">Troubleshooting</span>
 * [DNS Failure](osp-117.md)
 * [MacBook (Intel based)](https://fxdros.github.io/virtualbox-on-macos/)
+* [Windows 10: VirtualBox tidak bisa Print Screen](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/windows-10-virtualbox-tidak-bisa-print.html)
 * [Windows 10: SFC and DISM mantras](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/windows-10-sfc-and-dism-mantras.html)
 * [Windows 10: Simple Troubleshooting Tools](https://rahmatm.samik-ibrahim.vlsm.org/2021/10/four-simple-windows-troubleshooting.html)
 * [VirtualBox: SWAP File On Main Filesystem](osp-125.md)
