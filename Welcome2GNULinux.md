@@ -84,11 +84,11 @@ There are too many "GNU/Linux" sites around, do your own GSGS!
 [![Linux Man Pages - A Quick Tutorial](https://img.youtube.com/vi/uJnrh9hAQR0/0.jpg)](https://www.youtube.com/watch?v=uJnrh9hAQR0)
 
 <br>
-## More...
+## More Links
 
-* More:
-  * [From Students for Students](osp-127.md)
-  * [Links about Operating Systems](osp-115.md)
+* [Git Practice without GitHub](https://rahmatm.samik-ibrahim.vlsm.org/2020/05/sarana-latihan-git-lokal-tanpa-github.html)
+* [From Students for Students](osp-127.md)
+* [Links about Operating Systems](osp-115.md)
 
 
 <br id="endofpage"><br>
