@@ -1,0 +1,327 @@
+---
+---
+[HOME](index.md)
+[ABOUT](README.md)
+[WEB](https://osp4diss.vlsm.org/)
+[GITHUB](https://github.com/os2xx/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
+[PREV](index.md)
+[NEXT](index.md)
+
+# SP Weekly Assignments -- Deadline in 7 (seven) days
+
+* [Week 00](#idx00) -- Deadline: 12-Feb-2023
+* [Week 01](#idx01) -- Deadline: 19-Feb-2023
+* [Week 02](#idx02) -- Deadline: 26-Feb-2023
+* [Week 03](#idx03) -- Deadline: 05-Mar-2023
+* [Week 04](#idx04) -- Deadline: 12-Mar-2023
+* [Week 05](#idx05) -- Deadline: 19-Mar-2023
+* [Week 06](#idx06) -- Deadline: 26-Mar-2023
+* [Week 07](#idx07) -- Deadline: 16-Apr-2023
+* [Week 08](#idx08) -- Deadline: 07-May-2023
+* [Week 09](#idx09) -- Deadline: 14-May-2023
+* [Week 10](#idx10) -- Deadline: 21-May-2023
+
+[&#x213C;](#)<br id="idx00">
+## Week 00 -- -- Deadline: 12-Feb-2023
+
+* [Week 00 Assignment #1: GitHub Account](S00-01.md)
+* [Week 00 Assignment #2: "TXT/mylog.txt"](S00-02.md)
+* [Week 00 Assignment #3: Create Your GitHub Page](S00-03.md)
+* [Week 00 Assignment #4: Course Registration](S00-04.md)
+* [Week 00 Assignment #5: Reading Assignment](S00-05.md)
+* [Week 00 Assignment #6: Setup a VirtualBox Debian Guest](S00-06.md)
+* [Week 00 Assignment #7: GnuPG](S00-07.md)
+* Create a script (myscript.txt):
+  * SHA256SUM all "my" files
+  * Sign SHA256SUM to SHA256SUM.asc
+  * See also <https://cbkadal.github.io/sp231/TXT/myscript.sh>
+* Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+  * mylog.txt
+  * mypubkey.txt
+  * myscript.sh
+  * SHA256SUM
+  * SHA256SUM.asc
+* Always update SHA256SUM/SHA256SUM.asc after changes.
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+* It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+  If your computer has problems, those OVA files can be run on another computer.
+  
+[&#x213C;](#)<br id="idx01">
+## Week 01 -- Deadline: 19-Feb-2023
+
+* [Week 01 Assignment #1: Preparation](S01-01.md)
+* [Week 01 Assignment #2: Linux Kernel](S01-02.md)
+* [Week 01 Assignment #3: The Linux Programming Interface](S01-03.md)
+* Finishing:
+  * Run script "myscript.txt":
+    * See [this](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
+  * Put string "SP231W01" (WEEK 01) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myscript.sh
+    * myupdate.txt (content: OS231W01)
+    * myW01.tar.bz2.asc (content: config-linux-kernel tlpi.txt)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
+
+[&#x213C;](#)<br id="idx02">
+## Week 02 -- Deadline: 26-Feb-2023
+
+* [Week 02 Assignment #1: Script Download](S02-01.md)
+* [Week 02 Assignment #2: LFS 11.3 Chapter 01-05](S02-02.md)
+* [Week 02 Assignment #3: LFS 11.3 Chapter 06-07](S02-03.md)
+* Finishing:
+  * Run script "myscript.txt":
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
+  * Put string "SP231W02" (WEEK 02) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt (content: SP231W02)
+    * myW02.tar.bz2.asc (content: WEEK02-00-INSTALL.txt, WEEK02-01-VERSION.txt, WEEK02-02a-LFS.txt, WEEK02-02b-LFS.txt)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
+
+[&#x213C;](#)<br id="idx03"> 
+## Week 03 -- Deadline: 05-Mar-2023
+
+* [Week 03 Assignment #1: Readings](S03-01.md)
+* [Week 03 Assignment #2: Linux Kernel](S03-04.md)
+* [Week 03 Assignment #3: FUSE](S03-02.md)
+* [Week 03 Assignment #4: Script Download](S03-03.md)
+* Finishing:
+  * Run script "myscript.txt":
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
+  * Put string "SP231W03" (WEEK 03) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt (content: SP231W03)
+    * myW03.tar.bz2.asc (content: WEEK03-00-INSTALL.txt WEEK03-01-VERSION.txt config-linux-kernel)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
+
+[&#x213C;](#)<br id="idx04">
+## Week 04 -- Deadline: 12-Mar-2023
+
+* [Week 04 Assignment #1: Readings](S04-01.md)
+* [Week 04 Assignment #2: Script Download](S04-02.md)
+* [Week 04 Assignment #3: Programming](S04-03.md)
+* Finishing:
+  * Run script "myscript.txt":
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
+  * Put string "SP231W04" (WEEK 04) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt (content: SP231W04)
+    * myW04.tar.bz2.asc (content: WEEK04-00-INSTALL.txt WEEK04-01-VERSION.txt)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
+
+[&#x213C;](#)<br id="idx05">
+## Week 05 -- Deadline: 19-Mar-2023
+
+* [Week 05 Assignment #1: Readings](S05-01.md)
+* [Week 05 Assignment #2: Script Download](S05-02.md)
+* [Week 05 Assignment #3: Autoconf and Automake](S05-03.md)
+* [Week 05 Assignment #4: Linux Kernel](S05-04.md)
+* Finishing:
+  * Run script "myscript.txt":
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
+  * Put string "SP231W05" (WEEK 05) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt (content: SP231W05)
+    * myW05.tar.bz2.asc (content: W05/WEEK05-00-INSTALL.txt W05/WEEK05-01-VERSION.txt config-linux-kernel)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
+
+[&#x213C;](#)<br id="idx06">
+## Week 06
+
+* [Week 06 Assignment #1: Readings](S06-01.md)
+* [Week 06 Assignment #2: Script Download](S06-02.md)
+* [Week 06 Assignment #3: More Scripting](S06-03.md)
+* Finishing:
+  * Run script "myscript.txt":
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
+  * Put string "SP231W06" (WEEK 06) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt (content: SP231W06)
+    * myW06.tar.bz2.asc (content: WEEK06-00-INSTALL.txt WEEK06-01-VERSION.txt WEEK06-BOXING.sh WEEK06-UNBOXING.sh)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
+
+[&#x213C;](#)<br id="idx07">
+## Week 07
+
+* [Week 07 Assignment #1: Readings](S07-01.md)
+* [Week 07 Assignment #2: Linux Kernel](S07-04.md)
+* [Week 07 Assignment #3: Script Download](S07-02.md)
+* [Week 07 Assignment #4: Synchronization](S07-05.md)
+* Finishing:
+  * Run script "myscript.txt":
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
+  * Put string "SP231W07" (WEEK 07) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt (content: SP231W07)
+    * myW07.tar.bz2.asc (content: WEEK07-00-BASIC.txt WEEK07-01-VERSION.txt WEEK07-07-RUN.txt
+                         WEEK07-MYSHARE.bin WEEK07-REPORT2.txt config-linux-kernel)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
+
+[&#x213C;](#)<br id="idx08">
+## Week 08 -- Deadline: 07-May-2023
+
+* [Week 08 Assignment #1: Readings](S08-01.md)
+* [Week 08 Assignment #2: Script Download](S08-02.md)
+* [Week 08 Assignment #3: Kernel Modules](S08-03.md)
+* Finishing:
+  * Run script "myscript.txt":
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
+  * Put string "SP231W08" (WEEK 08) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt (content: SP231W08)
+    * myW08.tar.bz2.asc (content: WEEK08-00-BASIC.txt WEEK08-01-VERSION.txt WEEK08-KERNEL-LOG.txt)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
+
+
+[&#x213C;](#)<br id="idx09">
+## Week 09 -- Deadline: 14-May-2023
+
+* [Week 09 Assignment #1: Readings](S09-01.md)
+* [Week 09 Assignment #2: Script Download](S09-02.md)
+* [Week 09 Assignment #3: Kernel Modules](S09-03.md)
+* Finishing:
+  * Run script "myscript.txt":
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
+  * Put string "SP231W09" (WEEK 09) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt (content: SP231W09)
+    * myW09.tar.bz2.asc (content: WEEK09-00-BASIC.txt WEEK09-01-VERSION.txt WEEK09-KERNEL-LOG.txt)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
+
+
+[&#x213C;](#)<br id="idx10">
+## Week 10 --- Deadline: 21-May-2023
+
+* [Week 10 Assignment #1: Readings](S10-01.md)
+* [Week 10 Assignment #2: Script Download](S10-02.md)
+* [Week 10 Assignment #3: Kernel Modules](S10-03.md)
+* Finishing:
+  * Run script "myscript.txt":
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
+  * Put string "SP231W10" (WEEK 10) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt (Content: SP231W10)
+    * myW10.tar.bz2.asc (content: WEEK10-00-BASIC.txt WEEK10-01-VERSION.txt WEEK10-KERNEL-LOG.txt WEEK10-MODULE-LOG.txt )
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
+
+<br id="endofpage"><br>
+[HOME](index.md)
+[ABOUT](README.md)
+[WEB](https://osp4diss.vlsm.org/)
+[GITHUB](https://github.com/os2xx/osp4diss)
+[TOP](#)
+[BOTTOM](#endofpage)
+[PREV](index.md)
+[NEXT](index.md)
+<br>
+
