@@ -36,8 +36,8 @@
 * Create a script (myscript.txt):
   * SHA256SUM all "my" files
   * Sign SHA256SUM to SHA256SUM.asc
-  * See also <https://cbkadal.github.io/sp231/TXT/myscript.sh>
-* Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+  * See also <https://cbkadal.github.io/sp232/TXT/myscript.sh>
+* Files in TXT (see also <https://github.com/cbkadal/sp232/tree/master/TXT/>):
   * mylog.txt
   * mypubkey.txt
   * myscript.sh
@@ -57,14 +57,14 @@
 * [Week 01 Assignment #3: The Linux Programming Interface](S01-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See [this](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
-  * Put string "SP231W01" (WEEK 01) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
-  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * See [this](S01-01.md) and <https://cbkadal.github.io/sp232/TXT/myscript.sh>
+  * Put string "SP232W01" (WEEK 01) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp232/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp232/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
-    * myupdate.txt (content: OS231W01)
+    * myupdate.txt (content: OS232W01)
     * myW01.tar.bz2.asc (content: config-linux-kernel tlpi.txt)
     * SHA256SUM
     * SHA256SUM.asc
@@ -82,15 +82,15 @@
 * [Week 02 Assignment #3: LFS 11.3 Chapter 06-07](S02-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
-  * Put string "SP231W02" (WEEK 02) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
-  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp232/TXT/myscript.sh>
+  * Put string "SP232W02" (WEEK 02) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp232/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp232/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myrank.txt
     * myscript.sh
-    * myupdate.txt (content: SP231W02)
+    * myupdate.txt (content: SP232W02)
     * myW02.tar.bz2.asc (content: WEEK02-00-INSTALL.txt, WEEK02-01-VERSION.txt, WEEK02-02a-LFS.txt, WEEK02-02b-LFS.txt)
     * SHA256SUM
     * SHA256SUM.asc
@@ -109,15 +109,15 @@
 * [Week 03 Assignment #4: Script Download](S03-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
-  * Put string "SP231W03" (WEEK 03) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
-  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp232/TXT/myscript.sh>
+  * Put string "SP232W03" (WEEK 03) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp232/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp232/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myrank.txt
     * myscript.sh
-    * myupdate.txt (content: SP231W03)
+    * myupdate.txt (content: SP232W03)
     * myW03.tar.bz2.asc (content: WEEK03-00-INSTALL.txt WEEK03-01-VERSION.txt config-linux-kernel)
     * SHA256SUM
     * SHA256SUM.asc
@@ -135,15 +135,15 @@
 * [Week 04 Assignment #3: Programming](S04-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
-  * Put string "SP231W04" (WEEK 04) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
-  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp232/TXT/myscript.sh>
+  * Put string "SP232W04" (WEEK 04) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp232/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp232/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myrank.txt
     * myscript.sh
-    * myupdate.txt (content: SP231W04)
+    * myupdate.txt (content: SP232W04)
     * myW04.tar.bz2.asc (content: WEEK04-00-INSTALL.txt WEEK04-01-VERSION.txt)
     * SHA256SUM
     * SHA256SUM.asc
@@ -162,15 +162,15 @@
 * [Week 05 Assignment #4: Linux Kernel](S05-04.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
-  * Put string "SP231W05" (WEEK 05) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
-  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp232/TXT/myscript.sh>
+  * Put string "SP232W05" (WEEK 05) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp232/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp232/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myrank.txt
     * myscript.sh
-    * myupdate.txt (content: SP231W05)
+    * myupdate.txt (content: SP232W05)
     * myW05.tar.bz2.asc (content: W05/WEEK05-00-INSTALL.txt W05/WEEK05-01-VERSION.txt config-linux-kernel)
     * SHA256SUM
     * SHA256SUM.asc
@@ -188,15 +188,15 @@
 * [Week 06 Assignment #3: More Scripting](S06-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
-  * Put string "SP231W06" (WEEK 06) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
-  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp232/TXT/myscript.sh>
+  * Put string "SP232W06" (WEEK 06) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp232/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp232/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myrank.txt
     * myscript.sh
-    * myupdate.txt (content: SP231W06)
+    * myupdate.txt (content: SP232W06)
     * myW06.tar.bz2.asc (content: WEEK06-00-INSTALL.txt WEEK06-01-VERSION.txt WEEK06-BOXING.sh WEEK06-UNBOXING.sh)
     * SHA256SUM
     * SHA256SUM.asc
@@ -215,15 +215,15 @@
 * [Week 07 Assignment #4: Synchronization](S07-05.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
-  * Put string "SP231W07" (WEEK 07) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
-  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp232/TXT/myscript.sh>
+  * Put string "SP232W07" (WEEK 07) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp232/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp232/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myrank.txt
     * myscript.sh
-    * myupdate.txt (content: SP231W07)
+    * myupdate.txt (content: SP232W07)
     * myW07.tar.bz2.asc (content: WEEK07-00-BASIC.txt WEEK07-01-VERSION.txt WEEK07-07-RUN.txt
                          WEEK07-MYSHARE.bin WEEK07-REPORT2.txt config-linux-kernel)
     * SHA256SUM
@@ -242,15 +242,15 @@
 * [Week 08 Assignment #3: Kernel Modules](S08-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
-  * Put string "SP231W08" (WEEK 08) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
-  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp232/TXT/myscript.sh>
+  * Put string "SP232W08" (WEEK 08) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp232/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp232/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myrank.txt
     * myscript.sh
-    * myupdate.txt (content: SP231W08)
+    * myupdate.txt (content: SP232W08)
     * myW08.tar.bz2.asc (content: WEEK08-00-BASIC.txt WEEK08-01-VERSION.txt WEEK08-KERNEL-LOG.txt)
     * SHA256SUM
     * SHA256SUM.asc
@@ -269,15 +269,15 @@
 * [Week 09 Assignment #3: Kernel Modules](S09-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
-  * Put string "SP231W09" (WEEK 09) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
-  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp232/TXT/myscript.sh>
+  * Put string "SP232W09" (WEEK 09) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp232/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp232/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myrank.txt
     * myscript.sh
-    * myupdate.txt (content: SP231W09)
+    * myupdate.txt (content: SP232W09)
     * myW09.tar.bz2.asc (content: WEEK09-00-BASIC.txt WEEK09-01-VERSION.txt WEEK09-KERNEL-LOG.txt)
     * SHA256SUM
     * SHA256SUM.asc
@@ -296,15 +296,15 @@
 * [Week 10 Assignment #3: Kernel Modules](S10-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp231/TXT/myscript.sh>
-  * Put string "SP231W10" (WEEK 10) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp231/TXT/myupdate.txt>
-  * Files in TXT (see also <https://github.com/cbkadal/sp231/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <https://cbkadal.github.io/sp232/TXT/myscript.sh>
+  * Put string "SP232W10" (WEEK 10) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp232/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp232/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myrank.txt
     * myscript.sh
-    * myupdate.txt (Content: SP231W10)
+    * myupdate.txt (Content: SP232W10)
     * myW10.tar.bz2.asc (content: WEEK10-00-BASIC.txt WEEK10-01-VERSION.txt WEEK10-KERNEL-LOG.txt WEEK10-MODULE-LOG.txt )
     * SHA256SUM
     * SHA256SUM.asc

@@ -45,10 +45,10 @@
 * Recheck folder "TXT/":
   * mylog.txt
     * See log codes at <https://osp4diss.vlsm.org/ETC/logCodes.txt>
-    * For example, see cbkadal's <https://cbkadal.github.io/os231/TXT/mylog.txt>
+    * For example, see cbkadal's <https://cbkadal.github.io/os232/TXT/mylog.txt>
   * myupdate.txt
-    * For Week 01, fill "myupdate.txt" with "OS231W01"
-    * For example, see cbkadal's <https://cbkadal.github.io/os231/TXT/myupdate.txt>
+    * For Week 01, fill "myupdate.txt" with "OS232W01"
+    * For example, see cbkadal's <https://cbkadal.github.io/os232/TXT/myupdate.txt>
 * Submit (PUSH) your assignments
   * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
 * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
@@ -69,7 +69,7 @@
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS231W02)
+  * myupdate.txt (content: OS232W02)
   * myW02.tar.bz2.asc (content: WEEK02-00-INSTALL.txt WEEK02-01-VERSION.txt)
   * SHA256SUM
   * SHA256SUM.asc
@@ -90,7 +90,7 @@
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS231W03)
+  * myupdate.txt (content: OS232W03)
   * myW03.tar.bz2.asc (content: WEEK03-00-INSTALL.txt WEEK03-01-VERSION.txt WEEK03-03-DISK-CHECK.txt)
   * SHA256SUM
   * SHA256SUM.asc
@@ -110,7 +110,7 @@
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS231W04)
+  * myupdate.txt (content: OS232W04)
   * myW04.tar.bz2.asc (content: WEEK04-00-INSTALL.txt WEEK04-01-VERSION.txt WEEK04-04-TLPI.txt)
   * SHA256SUM
   * SHA256SUM.asc
@@ -132,7 +132,7 @@
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS231W05)
+  * myupdate.txt (content: OS232W05)
   * myW05.tar.bz2.asc (content: WEEK05-00-INSTALL.txt WEEK05-01-VERSION.txt WEEK05-05a.txt WEEK05-05b.txt)
   * SHA256SUM
   * SHA256SUM.asc
@@ -153,7 +153,7 @@
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS231W06)
+  * myupdate.txt (content: OS232W06)
   * myW06.tar.bz2.asc (content: WEEK06-00-INSTALL.txt WEEK06-01-VERSION.txt WEEK06-06-RUN.txt)
   * SHA256SUM
   * SHA256SUM.asc
@@ -174,7 +174,7 @@
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS231W07)
+  * myupdate.txt (content: OS232W07)
   * myW07.tar.bz2.asc (content: 
     WEEK07-00-BASIC.txt WEEK07-01-VERSION.txt WEEK07-07-RUN.txt 
     WEEK07-DEMO-CHECK.txt WEEK07-MYSHARE.bin WEEK07-REPORT2.txt)
@@ -197,7 +197,7 @@
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS231W08)
+  * myupdate.txt (content: OS232W08)
   * myW08.tar.bz2.asc (content: WEEK08-00-BASIC.txt WEEK08-01-VERSION.txt WEEK08-08-LFS.txt 
     WEEK08-DEMO-CHECK.txt)
   * SHA256SUM
@@ -220,7 +220,7 @@
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS231W09)
+  * myupdate.txt (content: OS232W09)
   * myW09.tar.bz2.asc (content: WEEK09-00-BASIC.txt WEEK09-01-VERSION.txt WEEK09-09-LFS.txt
     WEEK09-DEMO-CHECK.txt)
   * SHA256SUM
@@ -242,7 +242,7 @@
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS231W10)
+  * myupdate.txt (content: OS232W10)
   * myW10.tar.bz2.asc (content: WEEK10-00-BASIC.txt WEEK10-01-VERSION.txt WEEK10-10-LFS.txt
     WEEK10-DEMO-CHECK.txt)
   * SHA256SUM
