@@ -14,7 +14,7 @@
 ## The Deadline is 7 (seven) days after the assignment was announced.
 
 * [Week 00](#idx00) -- Deadline: 4 Sep 2023, 23:00
-* [Week 01](#idx01) -- Deadline: 
+* [Week 01](#idx01) -- Deadline: 11 Sep 2023, 23:00
 * [Week 02](#idx02) -- Deadline: 
 * [Week 03](#idx03) -- Deadline: 
 * [Week 04](#idx04) -- Deadline: 
@@ -36,7 +36,7 @@
 * [Week 00 Assignment #6: Revisit "TXT/mylog.txt"](W00-06.md)
 
 [&#x213C;](#)<br id="idx01">
-## Week 01 -- Deadline: 
+## Week 01 -- Deadline: 11 Sep 2023, 23:00
 
 * [Week 01 Assignment #1: Setup a VirtualBox Debian Guest](W01-01.md)
 * [Week 01 Assignment #2: The ATM Way: GSGS and Read](W01-02.md)
