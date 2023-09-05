@@ -38,7 +38,7 @@
 [&#x213C;](#)<br id="idx01">
 ## Week 01 -- Deadline: 11 Sep 2023, 23:00
 
-* [Week 01 Assignment #1: Setup a VirtualBox Debian Guest](W01-01.md)
+* [Week 01 Assignment #1: Setup a Virtual Debian Guest](W01-01.md)
 * [Week 01 Assignment #2: The ATM Way: GSGS and Read](W01-02.md)
 * [Week 01 Assignment #3: LINKS/](W01-03.md)
 * [Week 01 Assignment #4: Finishing](W01-04.md)
