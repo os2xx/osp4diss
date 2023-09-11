@@ -80,7 +80,7 @@
 * [SUPERUSER](osp-109.md)
 * [Default Shell: BASH](osp-132.md)
 * [RENAME](DebianGuestExportOva1.md) and [EXPORT](DebianGuestExportOva.md).
-  E.g., "OSP231.ova".  Estimated OVA size 747 MB.
+  E.g., "OSP232.ova".  Estimated OVA size 747 MB.
 
 [&#x213C;](#)<br id="idx05">
 # PULL from / PUSH to GitHub.com
@@ -101,7 +101,7 @@
 * [List of current GnuPG keys](W02-04.md)
 * [Importing the Operating Systems public key](W02-05.md)
 * [Signing the Operating Systems public key (Optional)](W02-06.md)
-* [Export Public Key “mypubkey.txt” (os231)](W02-07.md)
+* [Export Public Key “mypubkey.txt” (os232)](W02-07.md)
 
 [&#x213C;](#)<br id="idx06">
 # More Links
