@@ -70,7 +70,7 @@
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS232W02)
-  * myW02.tar.bz2.asc (content: WEEK02-00-INSTALL.txt WEEK02-01-VERSION.txt WEEK02-DEMO-CHECK.txt)
+  * myW02.tar.bz2.asc (content: WEEK02-00-BASIC.txt WEEK02-01-VERSION.txt WEEK02-DEMO-CHECK.txt)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
@@ -91,7 +91,7 @@
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS232W03)
-  * myW03.tar.bz2.asc (content: WEEK03-00-INSTALL.txt WEEK03-01-VERSION.txt WEEK03-03-DISK-CHECK.txt)
+  * myW03.tar.bz2.asc (content: WEEK03-00-BASIC.txt WEEK03-01-VERSION.txt WEEK03-03-DISK-CHECK.txt)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
@@ -111,7 +111,7 @@
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS232W04)
-  * myW04.tar.bz2.asc (content: WEEK04-00-INSTALL.txt WEEK04-01-VERSION.txt WEEK04-04-TLPI.txt)
+  * myW04.tar.bz2.asc (content: WEEK04-00-BASIC.txt WEEK04-01-VERSION.txt WEEK04-04-TLPI.txt)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
@@ -133,7 +133,7 @@
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS232W05)
-  * myW05.tar.bz2.asc (content: WEEK05-00-INSTALL.txt WEEK05-01-VERSION.txt WEEK05-05a.txt WEEK05-05b.txt)
+  * myW05.tar.bz2.asc (content: WEEK05-00-BASIC.txt WEEK05-01-VERSION.txt WEEK05-05a.txt WEEK05-05b.txt)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
@@ -154,7 +154,7 @@
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS232W06)
-  * myW06.tar.bz2.asc (content: WEEK06-00-INSTALL.txt WEEK06-01-VERSION.txt WEEK06-06-RUN.txt)
+  * myW06.tar.bz2.asc (content: WEEK06-00-BASIC.txt WEEK06-01-VERSION.txt WEEK06-06-RUN.txt)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
