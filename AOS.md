@@ -70,7 +70,7 @@
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS232W02)
-  * myW02.tar.bz2.asc (content: WEEK02-00-BASIC.txt WEEK02-01-VERSION.txt WEEK02-DEMO-CHECK.txt)
+  * myW02.tar.bz2.asc (content: WEEK02-00-BASIC.txt WEEK02-01-VERSION.txt WEEK02-DEMO-CHECK.txt WEEK02.sh)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
