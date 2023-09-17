@@ -13,7 +13,7 @@
 # OS Weekly Assignments
 ## The Deadline is 7 (seven) days after the assignment was announced.
 
-* [Week 00](#idx00) -- Deadline: 4 Sep 2023, 23:00
+* [Week 00](#idx00) -- Deadline:  4 Sep 2023, 23:00
 * [Week 01](#idx01) -- Deadline: 11 Sep 2023, 23:00
 * [Week 02](#idx02) -- Deadline: 18 Sep 2023, 23:00
 * [Week 03](#idx03) -- Deadline: 25 Sep 2023, 23:00
@@ -26,7 +26,7 @@
 * [Week 10](#idx10) -- Deadline: 
 
 [&#x213C;](#)<br id="idx00">
-## Week 00 -- Deadline: 4 Sep 2023, 23:00
+## Week 00 -- Deadline:  4 Sep 2023, 23:00
 
 * [Week 00 Assignment #1: GitHub Account](W00-01.md)
 * [Week 00 Assignment #2: "TXT/mylog.txt"](W00-02.md)
@@ -91,7 +91,8 @@
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS232W03)
-  * myW03.tar.bz2.asc (content: WEEK03-00-BASIC.txt WEEK03-01-VERSION.txt WEEK03-03-DISK-CHECK.txt)
+  * myW03.tar.bz2.asc (content: WEEK03-00-BASIC.txt WEEK03-01-VERSION.txt WEEK03-03-DISK-CHECK.txt
+    WEEK03-DEMO-CHECK.txt)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
