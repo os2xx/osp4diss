@@ -65,7 +65,7 @@
     * mypubkey.txt
     * myscript.sh
     * myupdate.txt (content: OS232W01)
-    * myW01.tar.bz2.asc (content: config-linux-kernel tlpi.txt)
+    * myW01.tar.xz.asc (content: config-linux-kernel tlpi.txt)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
@@ -91,7 +91,7 @@
     * myrank.txt
     * myscript.sh
     * myupdate.txt (content: SP232W02)
-    * myW02.tar.bz2.asc (content: WEEK02-00-BASIC.txt, WEEK02-01-VERSION.txt, WEEK02-02a-LFS.txt, WEEK02-02b-LFS.txt)
+    * myW02.tar.xz.asc (content: WEEK02-00-BASIC.txt, WEEK02-01-VERSION.txt, WEEK02-02a-LFS.txt, WEEK02-02b-LFS.txt)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
@@ -118,7 +118,7 @@
     * myrank.txt
     * myscript.sh
     * myupdate.txt (content: SP232W03)
-    * myW03.tar.bz2.asc (content: WEEK03-00-BASIC.txt WEEK03-01-VERSION.txt config-linux-kernel)
+    * myW03.tar.xz.asc (content: WEEK03-00-BASIC.txt WEEK03-01-VERSION.txt config-linux-kernel)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
@@ -144,7 +144,7 @@
     * myrank.txt
     * myscript.sh
     * myupdate.txt (content: SP232W04)
-    * myW04.tar.bz2.asc (content: WEEK04-00-BASIC.txt WEEK04-01-VERSION.txt)
+    * myW04.tar.xz.asc (content: WEEK04-00-BASIC.txt WEEK04-01-VERSION.txt)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
@@ -171,7 +171,7 @@
     * myrank.txt
     * myscript.sh
     * myupdate.txt (content: SP232W05)
-    * myW05.tar.bz2.asc (content: W05/WEEK05-00-BASIC.txt W05/WEEK05-01-VERSION.txt config-linux-kernel)
+    * myW05.tar.xz.asc (content: W05/WEEK05-00-BASIC.txt W05/WEEK05-01-VERSION.txt config-linux-kernel)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
@@ -197,7 +197,7 @@
     * myrank.txt
     * myscript.sh
     * myupdate.txt (content: SP232W06)
-    * myW06.tar.bz2.asc (content: WEEK06-00-BASIC.txt WEEK06-01-VERSION.txt WEEK06-BOXING.sh WEEK06-UNBOXING.sh)
+    * myW06.tar.xz.asc (content: WEEK06-00-BASIC.txt WEEK06-01-VERSION.txt WEEK06-BOXING.sh WEEK06-UNBOXING.sh)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
@@ -224,7 +224,7 @@
     * myrank.txt
     * myscript.sh
     * myupdate.txt (content: SP232W07)
-    * myW07.tar.bz2.asc (content: WEEK07-00-BASIC.txt WEEK07-01-VERSION.txt WEEK07-07-RUN.txt
+    * myW07.tar.xz.asc (content: WEEK07-00-BASIC.txt WEEK07-01-VERSION.txt WEEK07-07-RUN.txt
                          WEEK07-MYSHARE.bin WEEK07-REPORT2.txt config-linux-kernel)
     * SHA256SUM
     * SHA256SUM.asc
@@ -251,7 +251,7 @@
     * myrank.txt
     * myscript.sh
     * myupdate.txt (content: SP232W08)
-    * myW08.tar.bz2.asc (content: WEEK08-00-BASIC.txt WEEK08-01-VERSION.txt WEEK08-KERNEL-LOG.txt)
+    * myW08.tar.xz.asc (content: WEEK08-00-BASIC.txt WEEK08-01-VERSION.txt WEEK08-KERNEL-LOG.txt)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
@@ -278,7 +278,7 @@
     * myrank.txt
     * myscript.sh
     * myupdate.txt (content: SP232W09)
-    * myW09.tar.bz2.asc (content: WEEK09-00-BASIC.txt WEEK09-01-VERSION.txt WEEK09-KERNEL-LOG.txt)
+    * myW09.tar.xz.asc (content: WEEK09-00-BASIC.txt WEEK09-01-VERSION.txt WEEK09-KERNEL-LOG.txt)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
@@ -305,7 +305,7 @@
     * myrank.txt
     * myscript.sh
     * myupdate.txt (Content: SP232W10)
-    * myW10.tar.bz2.asc (content: WEEK10-00-BASIC.txt WEEK10-01-VERSION.txt WEEK10-KERNEL-LOG.txt WEEK10-MODULE-LOG.txt )
+    * myW10.tar.xz.asc (content: WEEK10-00-BASIC.txt WEEK10-01-VERSION.txt WEEK10-KERNEL-LOG.txt WEEK10-MODULE-LOG.txt )
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
