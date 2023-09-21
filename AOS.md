@@ -92,7 +92,7 @@
   * myscript.sh
   * myupdate.txt (content: OS232W03)
   * myW03.tar.xz.asc (content: WEEK03-00-BASIC.txt WEEK03-01-VERSION.txt WEEK03-03-DISK-CHECK.txt
-    WEEK03-DEMO-CHECK.txt)
+    WEEK03-DEMO-CHECK.txt WEEK03.tar)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
