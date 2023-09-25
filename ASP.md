@@ -171,7 +171,7 @@
     * myrank.txt
     * myscript.sh
     * myupdate.txt (content: SP232W05)
-    * myW05.tar.xz.asc (content: W05/WEEK05-00-BASIC.txt W05/WEEK05-01-VERSION.txt config-linux-kernel)
+    * myW05.tar.xz.asc (content: WEEK05-00-BASIC.txt WEEK05-01-VERSION.txt config-linux-kernel)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
