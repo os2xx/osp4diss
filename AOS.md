@@ -17,7 +17,7 @@
 * [Week 01](#idx01) -- Deadline: 11 Sep 2023, 23:00
 * [Week 02](#idx02) -- Deadline: 18 Sep 2023, 23:00
 * [Week 03](#idx03) -- Deadline: 25 Sep 2023, 23:00
-* [Week 04](#idx04) -- Deadline: 
+* [Week 04](#idx04) -- Deadline:  3 Oct 2023, 23:00
 * [Week 05](#idx05) -- Deadline: 
 * [Week 06](#idx06) -- Deadline: 
 * [Week 07](#idx07) -- Deadline: 
@@ -101,7 +101,7 @@
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idx04">
-## Week 04 -- Deadline: 
+## Week 04 -- Deadline: 3 Oct 2023, 23:00
 
 * [Week 04 Assignment #1: Readings and Demos](W04-01.md)
 * [Week 04 Assignment #2: Compiling The Linux Programming Interface (TLPI)](W04-02.md)
