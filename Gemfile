@@ -1,9 +1,7 @@
-source 'https://rubygems.org'
-
-gem 'jekyll-sitemap'
+source "https://rubygems.org/"
 gem 'github-pages', group: :jekyll_plugins
-gem "addressable"
-gem "nokogiri"
-gem "faraday-retry"
 gem 'webrick'
+gem 'faraday-retry'
+gem 'jekyll-sitemap'
+gem 'jekyll-seo-tag'
 
