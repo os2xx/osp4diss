@@ -135,7 +135,8 @@
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS232W05)
-  * myW05.tar.xz.asc (content: WEEK05-00-BASIC.txt WEEK05-01-VERSION.txt WEEK05-05a.txt WEEK05-05b.txt)
+  * myW05.tar.xz.asc (content: WEEK05-00-BASIC.txt WEEK05-01-VERSION.txt WEEK05-05a-MYMEMORY.txt 
+    WEEK05-05b-MYMEMORY.txt WEEK05-DEMO-CHECK.txt WEEK05-fded069977f835aa6cbf5445e142f8e0-md5sum.bin)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
