@@ -19,7 +19,7 @@
 * [Week 03](#idx03) -- Deadline: 25 Sep 2023, 23:00
 * [Week 04](#idx04) -- Deadline:  4 Oct 2023, 23:00
 * [Week 05](#idx05) -- Deadline: 11 Oct 2023, 23:00
-* [Week 06](#idx06) -- Deadline: 
+* [Week 06](#idx06) -- Deadline:  6 Nov 2023, 23:00
 * [Week 07](#idx07) -- Deadline: 
 * [Week 08](#idx08) -- Deadline: 
 * [Week 09](#idx09) -- Deadline: 
@@ -145,7 +145,7 @@
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idx06">
-## Week 06
+## Week 06 -- Deadline: 6 Nov 2023, 23:00
 
 * [Week 06 Assignment #1: Readings and Demos](W06-01.md)
 * [Week 06 Assignment #2: Script Download](W06-02.md)
