@@ -157,7 +157,8 @@
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS232W06)
-  * myW06.tar.xz.asc (content: WEEK06-00-BASIC.txt WEEK06-01-VERSION.txt WEEK06-06-RUN.txt)
+  * myW06.tar.xz.asc (content: WEEK06-00-BASIC.txt WEEK06-01-VERSION.txt WEEK06-06-RUN.txt
+    WEEK06-MD5SUM.txt)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
