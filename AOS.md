@@ -22,7 +22,7 @@
 * [Week 06](#idx06) -- Deadline:  6 Nov 2023, 23:00
 * [Week 07](#idx07) -- Deadline: 13 Nov 2023, 23:00
 * [Week 08](#idx08) -- Deadline: 20 Nov 2023, 23:00
-* [Week 09](#idx09) -- Deadline: 
+* [Week 09](#idx09) -- Deadline: 27 Nov 2023, 23:00
 * [Week 10](#idx10) -- Deadline: 
 
 [&#x213C;](#)<br id="idx00">
@@ -213,7 +213,7 @@
 
 
 [&#x213C;](#)<br id="idx09">
-## Week 09 -- Deadline: 
+## Week 09 -- Deadline: 27 Nov 2023, 23:00
 
 * [Week 09 Assignment #1: Readings and Demos](W09-01.md)
 * [Week 09 Assignment #2: Script Download](W09-02.md)
