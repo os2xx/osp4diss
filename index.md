@@ -16,10 +16,10 @@
   * [VirtualBox: Debian Guest Preparation](https://doit.vlsm.org/013.html)
   * [VirtualBox: Debian Guest Installation](https://doit.vlsm.org/014.html)
   * [VirtualBox: How to compile Linux Kernel on a Debian Guest](https://doit.vlsm.org/007.html)
-    * [VirtualBox: Linux/AMD64 6.1 Kernel Configuration File](https://doit.vlsm.org/008.html)
+    * [VirtualBox: Linux/AMD64 Kernel Configuration File](https://doit.vlsm.org/008.html)
 * UTM MacOS M1
   * [UTM MacOS M1: How to compile Linux Kernel on a Debian Guest](https://doit.vlsm.org/011.html)
-    * [UTM MacOS M1: Linux/M1 6.1 Kernel Configuration File](https://doit.vlsm.org/010.html)
+    * [UTM MacOS M1: Linux/M1 Kernel Configuration File](https://doit.vlsm.org/010.html)
 * [<span style="color:red;font-weight:bold;">Troubleshooting</span>](#idx02a)
 * [Running a VirtualBox Debian Guest](#idx03)
 * [Dress Up Your Virtual Guest](#idx04)
