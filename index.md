@@ -25,9 +25,6 @@
 * [Dress Up Your Virtual Guest](#idx04)
 * [PULL from / PUSH to GitHub](#idx05)
 * [GnuPG](#idx05a)
-* Weekly Assignments
-  * [Operating Systems](AOS.md)
-  * [System Programming](ASP.md)
 * [More Links](#idx06)
 
 <hr>
