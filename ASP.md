@@ -11,20 +11,20 @@
 
 # SP Weekly Assignments -- Deadline in 7 (seven) days
 
-* [Week 00](#idx00) -- Deadline: 12-Feb-2023
-* [Week 01](#idx01) -- Deadline: 19-Feb-2023
-* [Week 02](#idx02) -- Deadline: 26-Feb-2023
-* [Week 03](#idx03) -- Deadline: 05-Mar-2023
-* [Week 04](#idx04) -- Deadline: 12-Mar-2023
-* [Week 05](#idx05) -- Deadline: 19-Mar-2023
-* [Week 06](#idx06) -- Deadline: 26-Mar-2023
-* [Week 07](#idx07) -- Deadline: 16-Apr-2023
-* [Week 08](#idx08) -- Deadline: 07-May-2023
-* [Week 09](#idx09) -- Deadline: 14-May-2023
-* [Week 10](#idx10) -- Deadline: 21-May-2023
+* [Week 00](#idx00) -- Deadline: TBA
+* [Week 01](#idx01) -- Deadline: TBA
+* [Week 02](#idx02) -- Deadline: TBA
+* [Week 03](#idx03) -- Deadline: TBA
+* [Week 04](#idx04) -- Deadline: TBA
+* [Week 05](#idx05) -- Deadline: TBA
+* [Week 06](#idx06) -- Deadline: TBA
+* [Week 07](#idx07) -- Deadline: TBA
+* [Week 08](#idx08) -- Deadline: TBA
+* [Week 09](#idx09) -- Deadline: TBA
+* [Week 10](#idx10) -- Deadline: TBA
 
 [&#x213C;](#)<br id="idx00">
-## Week 00 -- -- Deadline: 12-Feb-2023
+## Week 00 -- -- Deadline: TBA
 
 * [Week 00 Assignment #1: GitHub Account](S00-01.md)
 * [Week 00 Assignment #2: "TXT/mylog.txt"](S00-02.md)
@@ -50,7 +50,7 @@
   If your computer has problems, those OVA files can be run on another computer.
   
 [&#x213C;](#)<br id="idx01">
-## Week 01 -- Deadline: 19-Feb-2023
+## Week 01 -- Deadline: TBA
 
 * [Week 01 Assignment #1: Preparation](S01-01.md)
 * [Week 01 Assignment #2: Linux Kernel](S01-02.md)
@@ -75,7 +75,7 @@
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idx02">
-## Week 02 -- Deadline: 26-Feb-2023
+## Week 02 -- Deadline: TBA
 
 * [Week 02 Assignment #1: Script Download](S02-01.md)
 * [Week 02 Assignment #2: LFS 11.3 Chapter 01-05](S02-02.md)
@@ -101,7 +101,7 @@
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idx03"> 
-## Week 03 -- Deadline: 05-Mar-2023
+## Week 03 -- Deadline: TBA
 
 * [Week 03 Assignment #1: Readings](S03-01.md)
 * [Week 03 Assignment #2: Linux Kernel](S03-04.md)
@@ -128,7 +128,7 @@
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idx04">
-## Week 04 -- Deadline: 12-Mar-2023
+## Week 04 -- Deadline: TBA
 
 * [Week 04 Assignment #1: Readings](S04-01.md)
 * [Week 04 Assignment #2: Script Download](S04-02.md)
@@ -154,7 +154,7 @@
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idx05">
-## Week 05 -- Deadline: 19-Mar-2023
+## Week 05 -- Deadline: TBA
 
 * [Week 05 Assignment #1: Readings](S05-01.md)
 * [Week 05 Assignment #2: Script Download](S05-02.md)
@@ -235,7 +235,7 @@
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idx08">
-## Week 08 -- Deadline: 07-May-2023
+## Week 08 -- Deadline: TBA
 
 * [Week 08 Assignment #1: Readings](S08-01.md)
 * [Week 08 Assignment #2: Script Download](S08-02.md)
@@ -262,7 +262,7 @@
 
 
 [&#x213C;](#)<br id="idx09">
-## Week 09 -- Deadline: 14-May-2023
+## Week 09 -- Deadline: TBA
 
 * [Week 09 Assignment #1: Readings](S09-01.md)
 * [Week 09 Assignment #2: Script Download](S09-02.md)
@@ -289,7 +289,7 @@
 
 
 [&#x213C;](#)<br id="idx10">
-## Week 10 --- Deadline: 21-May-2023
+## Week 10 --- Deadline: TBA
 
 * [Week 10 Assignment #1: Readings](S10-01.md)
 * [Week 10 Assignment #2: Script Download](S10-02.md)
