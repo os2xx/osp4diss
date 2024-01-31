@@ -26,6 +26,7 @@
 * [PULL from / PUSH to GitHub](#idx05)
 * [GnuPG](#idx05a)
 * [More Links](#idx06)
+* [OLD AOS](AOS.md) --- [OLD ASP](ASP.md)
 
 <hr>
 [&#x213C;](#)<br id="idx01">
